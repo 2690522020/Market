@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\dev\ideaworks\Market\conf\application.conf,D:\dev\ideaworks\Market\target\scala-2.12\classes\application.conf)
+[debug] 	(D:\dev\ideaworks\Market\conf\logback.xml,D:\dev\ideaworks\Market\target\scala-2.12\classes\logback.xml)
+[debug] 	(D:\dev\ideaworks\Market\conf\routes,D:\dev\ideaworks\Market\target\scala-2.12\classes\routes)

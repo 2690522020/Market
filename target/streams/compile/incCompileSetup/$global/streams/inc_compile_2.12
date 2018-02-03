@@ -1,0 +1,968 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\dev\ideaworks\Market\target\scala-2.12\classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+28 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\AsyncController.class
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\CountController.class
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\HomeController.class
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\filters\ExampleFilter.class
+D:\dev\ideaworks\Market\app\Module.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\Module.class
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\services\ApplicationTimer.class
+D:\dev\ideaworks\Market\app\services\Counter.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\services\AtomicCounter.class
+D:\dev\ideaworks\Market\app\services\Counter.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\services\Counter.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseAssets.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseAsyncController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseCountController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseHomeController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseAssets.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseAsyncController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseCountController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseHomeController.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\routes$javascript.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\routes.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\router\Routes$$anonfun$routes$1.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\router\Routes.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\router\RoutesPrefix$.class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\router\RoutesPrefix.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\index$.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\index.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\main$.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\main.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\welcome$.class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\welcome.class
+binary dependencies:
+45 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.8.jar
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.8.jar
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\Module.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\app\Module.scala -> C:\Users\zjw\.ivy2\cache\com.google.inject\guice\jars\guice-4.1.0.jar
+D:\dev\ideaworks\Market\app\Module.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\app\services\Counter.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\app\services\Counter.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+18 items
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> D:\dev\ideaworks\Market\app\services\Counter.scala
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala
+D:\dev\ideaworks\Market\app\Module.scala -> D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala
+D:\dev\ideaworks\Market\app\Module.scala -> D:\dev\ideaworks\Market\app\services\Counter.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\app\controllers\AsyncController.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\app\controllers\CountController.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\app\controllers\HomeController.scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> controllers.AsyncController
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> controllers.CountController
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> controllers.HomeController
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> filters.ExampleFilter
+D:\dev\ideaworks\Market\app\Module.scala -> Module
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> services.ApplicationTimer
+D:\dev\ideaworks\Market\app\services\Counter.scala -> services.AtomicCounter
+D:\dev\ideaworks\Market\app\services\Counter.scala -> services.Counter
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseCountController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseHomeController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAssets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseAsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseCountController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> controllers.ReverseHomeController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> controllers.routes
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> controllers.routes$javascript
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> router.Routes
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> router.Routes$$anonfun$routes$1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> router.RoutesPrefix$
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> views.html.index
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> views.html.index$
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> views.html.main
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> views.html.main$
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> views.html.welcome
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> views.html.welcome$
+used names:
+664 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> <byname>
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> <init>
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> AbstractController
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Action
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> ActionBuilder
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> ActorSystem
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Any
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> AnyContent
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> AsyncController
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> C
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Cancellable
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Codec
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> ControllerComponents
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> DurationInt
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> ExecutionContext
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> ExecutionContextExecutor
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> FiniteDuration
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Function1
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Future
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Int
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Nothing
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Ok
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Predef
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Promise
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Request
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Result
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> S
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Scheduler
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Status
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> String
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> T
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Unit
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> Writeable
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> actor
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> actorSystem
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> akka
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> api
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> apply
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> async
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> cc
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> concurrent
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> controllers
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> delayTime
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> dispatcher
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> duration
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> exec
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> future
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> getFutureMessage
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> http
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> inject
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> javax
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> map
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> msg
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> mvc
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> package
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> play
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> promise
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> scala
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> scheduleOnce
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> scheduler
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> second
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> success
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> utf_8
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> wString
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> <byname>
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> <init>
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> AbstractController
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Action
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> ActionBuilder
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Any
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> AnyContent
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> C
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Codec
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> ControllerComponents
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> CountController
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Counter
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Int
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Nothing
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Ok
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Predef
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Request
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Result
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Status
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> String
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> Writeable
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> api
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> apply
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> cc
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> controllers
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> counter
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> http
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> inject
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> javax
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> mvc
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> nextCount
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> play
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> services
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> toString
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> utf_8
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> wString
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> <byname>
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> <init>
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> AbstractController
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Action
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> ActionBuilder
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Any
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> AnyContent
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Appendable
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> C
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Codec
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Content
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> ContentTypeOf
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> ControllerComponents
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> HomeController
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Html
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> HtmlFormat
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Nothing
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Ok
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Predef
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Request
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Result
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Status
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> String
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> Writeable
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> api
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> apply
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> cc
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> contentTypeOf_Html
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> controllers
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> html
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> http
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> index
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> inject
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> javax
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> mvc
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> play
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> utf_8
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> views
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> writeableOf_Content
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> ->
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> <init>
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> <repeated>
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> A
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Any
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> ArrowAssoc
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> B
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> ExampleFilter
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> ExecutionContext
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Filter
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Function1
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Future
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Materializer
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Nothing
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Object
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Predef
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> RequestHeader
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Result
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> S
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> String
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> Tuple2
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> _root_
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> akka
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> api
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> apply
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> concurrent
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> exec
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> filters
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> inject
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> javax
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> map
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> mat
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> mvc
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> nextFilter
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> play
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> requestHeader
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> result
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> scala
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> stream
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> withHeaders
+D:\dev\ideaworks\Market\app\Module.scala -> <init>
+D:\dev\ideaworks\Market\app\Module.scala -> ?0
+D:\dev\ideaworks\Market\app\Module.scala -> AbstractModule
+D:\dev\ideaworks\Market\app\Module.scala -> AnnotatedBindingBuilder
+D:\dev\ideaworks\Market\app\Module.scala -> Any
+D:\dev\ideaworks\Market\app\Module.scala -> ApplicationTimer
+D:\dev\ideaworks\Market\app\Module.scala -> AtomicCounter
+D:\dev\ideaworks\Market\app\Module.scala -> Class
+D:\dev\ideaworks\Market\app\Module.scala -> Clock
+D:\dev\ideaworks\Market\app\Module.scala -> Counter
+D:\dev\ideaworks\Market\app\Module.scala -> Module
+D:\dev\ideaworks\Market\app\Module.scala -> Nothing
+D:\dev\ideaworks\Market\app\Module.scala -> ScopedBindingBuilder
+D:\dev\ideaworks\Market\app\Module.scala -> T
+D:\dev\ideaworks\Market\app\Module.scala -> Unit
+D:\dev\ideaworks\Market\app\Module.scala -> asEagerSingleton
+D:\dev\ideaworks\Market\app\Module.scala -> bind
+D:\dev\ideaworks\Market\app\Module.scala -> com
+D:\dev\ideaworks\Market\app\Module.scala -> google
+D:\dev\ideaworks\Market\app\Module.scala -> inject
+D:\dev\ideaworks\Market\app\Module.scala -> java
+D:\dev\ideaworks\Market\app\Module.scala -> services
+D:\dev\ideaworks\Market\app\Module.scala -> systemDefaultZone
+D:\dev\ideaworks\Market\app\Module.scala -> time
+D:\dev\ideaworks\Market\app\Module.scala -> to
+D:\dev\ideaworks\Market\app\Module.scala -> toInstance
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> -
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> <byname>
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> <init>
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> <repeated>
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Any
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> AnyRef
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> ApplicationLifecycle
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> ApplicationTimer
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Clock
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Function0
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Future
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Instant
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Logger
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Long
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> MarkerContext
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> NoMarker
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Nothing
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Object
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Predef
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> String
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> StringContext
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> T
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> Unit
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> _$1
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> addStopHook
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> api
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> appLifecycle
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> clock
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> concurrent
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> getEpochSecond
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> info
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> inject
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> instant
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> java
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> javax
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> play
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> runningTime
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> s
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> scala
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> services
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> start
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> stop
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> successful
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> time
+D:\dev\ideaworks\Market\app\services\Counter.scala -> <init>
+D:\dev\ideaworks\Market\app\services\Counter.scala -> AnyRef
+D:\dev\ideaworks\Market\app\services\Counter.scala -> AtomicCounter
+D:\dev\ideaworks\Market\app\services\Counter.scala -> AtomicInteger
+D:\dev\ideaworks\Market\app\services\Counter.scala -> Counter
+D:\dev\ideaworks\Market\app\services\Counter.scala -> Int
+D:\dev\ideaworks\Market\app\services\Counter.scala -> Object
+D:\dev\ideaworks\Market\app\services\Counter.scala -> atomic
+D:\dev\ideaworks\Market\app\services\Counter.scala -> atomicCounter
+D:\dev\ideaworks\Market\app\services\Counter.scala -> concurrent
+D:\dev\ideaworks\Market\app\services\Counter.scala -> getAndIncrement
+D:\dev\ideaworks\Market\app\services\Counter.scala -> inject
+D:\dev\ideaworks\Market\app\services\Counter.scala -> java
+D:\dev\ideaworks\Market\app\services\Counter.scala -> javax
+D:\dev\ideaworks\Market\app\services\Counter.scala -> scala
+D:\dev\ideaworks\Market\app\services\Counter.scala -> services
+D:\dev\ideaworks\Market\app\services\Counter.scala -> util
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> +
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <byname>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> <refinement>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> AnyRef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Asset
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Assets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Boolean
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Object
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> PathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAssets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseAsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseCountController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseHomeController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> ReverseRouteContext
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> Right
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _defaultPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _prefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> _root_
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> assetPathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> empty
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> endsWith
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> implicitly
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascript
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> javascriptUnbind
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> routing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> +
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> <byname>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> <refinement>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> <repeated>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> A
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> AnyRef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Asset
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Assets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> B
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Boolean
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Call
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Map
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Object
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> PathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> ReverseAssets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> ReverseAsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> ReverseCountController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> ReverseHomeController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> ReverseRouteContext
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Right
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> T1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> T2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> Tuple2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> _defaultPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> _prefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> _root_
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> _rrc
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> apply
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> assetPathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> core
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> endsWith
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> file
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> implicitly
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> routing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> unbind
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> +
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> ++
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> :+
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> <byname>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> <refinement>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> <repeated>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> A
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> A1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> A2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> AbstractPartialFunction
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Action
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> AnyContent
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> AnyRef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Asset
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Assets
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Assets_1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> AsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> AsyncController_2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> B
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> B1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Boolean
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> CanBuildFrom
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Class
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> ClassLoader
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Coll
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> CountController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> CountController_3
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> DynamicPart
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Either
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Function1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Function2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> GenTraversableOnce
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> GeneratedRouter
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Handler
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HandlerDef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HandlerInvoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HandlerInvokerFactory
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HomeController
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HomeController_0
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> HttpErrorHandler
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> List
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Nil
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> None
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Object
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Option
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Param
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> ParamsExtractor
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> PartialFunction
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> PathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> PathPart
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> PathPattern
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Product
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> RequestHeader
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> ReverseRouteContext
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Right
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Route
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> RouteParams
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Routes
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> RoutesPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Seq
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Serializable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> StaticPart
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> T0
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> T1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> T2
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> T3
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> That
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Tuple3
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> Unit
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> _$1
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> apply
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> asInstanceOf
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> assetPathBindable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> call
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> canBuildFrom
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> collection
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_Assets_versioned3_invoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_Assets_versioned3_route
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_AsyncController_message2_invoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_AsyncController_message2_route
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_CountController_count1_invoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_CountController_count1_route
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_HomeController_index0_invoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> controllers_HomeController_index0_route
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> core
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> count
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> createInvoker
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> defaultPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> e
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> empty
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> endsWith
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> errorHandler
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> fakeValue
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> file
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> foldLeft
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> fromPath
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> get
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> getClass
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> getClassLoader
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> http
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> immutable
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> index
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> isEmpty
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> isInstanceOf
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> message
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> package
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> params
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> passThrough
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> path
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> prefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> router
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> routing
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> s
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> setPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> unapply
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> unary_!
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> unchecked
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> versioned
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> AnyRef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> Function0
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> Object
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> RoutesPrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> Unit
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> _prefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> _prefix_=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> byNamePrefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> p
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> prefix
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> router
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> <repeated>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> A
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Appendable
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> BaseScalaTemplate
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> ClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Function1
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> HtmlFormat
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> JavaScript
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> PlayMagic
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Seq
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Template1
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> TwirlFeatureImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> TwirlHelperImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Txt
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> Xml
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> _$7
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> _display_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> _root_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> apply
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> collection
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> data
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> i18n
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> index
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> main
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> materializeClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> message
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> models
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> package
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> raw
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> reflect
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> templates
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> twirl
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> views
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> welcome
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> <repeated>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> A
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Appendable
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Asset
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Assets
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> BaseScalaTemplate
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Call
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> ClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Function1
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> HtmlFormat
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> JavaScript
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> PlayMagic
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> ReverseAssets
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Seq
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Template2
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> TwirlFeatureImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> TwirlHelperImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Txt
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> Xml
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> _$7
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> _display_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> _root_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> apply
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> collection
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> content
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> data
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> i18n
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> main
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> materializeClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> models
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> package
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> raw
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> reflect
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> routes
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> string2Asset
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> templates
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> title
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> twirl
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> versioned
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> views
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> <init>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> <repeated>
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> A
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Any
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Appendable
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> AsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> BaseScalaTemplate
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Call
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Class
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> ClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> CountController
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Function1
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Function2
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> HtmlFormat
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> JavaScript
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Nothing
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> PlayMagic
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> PlayVersion
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Predef
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> ReverseAsyncController
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> ReverseCountController
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Seq
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> String
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> StringOps
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> T
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Template2
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> TwirlFeatureImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> TwirlHelperImports
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Txt
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> Xml
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> _$7
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> _display_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> _root_
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> api
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> apply
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> augmentString
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> capitalize
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> collection
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> controllers
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> core
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> count
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> current
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> data
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> defining
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> format
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> html
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> i18n
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> materializeClassTag
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> message
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> models
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> mvc
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> package
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> play
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> raw
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> reflect
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> routes
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> scala
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> style
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> templates
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> twirl
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> version
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> views
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> welcome
+product stamps:
+28 items
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\AsyncController.class -> lastModified(1517635845549)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\CountController.class -> lastModified(1517635845557)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\HomeController.class -> lastModified(1517635845571)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseAssets.class -> lastModified(1517635845777)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseAsyncController.class -> lastModified(1517635845765)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseCountController.class -> lastModified(1517635845791)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\javascript\ReverseHomeController.class -> lastModified(1517635845770)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseAssets.class -> lastModified(1517635845728)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseAsyncController.class -> lastModified(1517635845704)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseCountController.class -> lastModified(1517635845735)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\ReverseHomeController.class -> lastModified(1517635845721)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\routes$javascript.class -> lastModified(1517635847078)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\controllers\routes.class -> lastModified(1517635847085)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\filters\ExampleFilter.class -> lastModified(1517635845609)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\Module.class -> lastModified(1517635845473)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\router\Routes$$anonfun$routes$1.class -> lastModified(1517635845905)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\router\Routes.class -> lastModified(1517635845863)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\router\RoutesPrefix$.class -> lastModified(1517635845916)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\router\RoutesPrefix.class -> lastModified(1517635845920)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\services\ApplicationTimer.class -> lastModified(1517635845621)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\services\AtomicCounter.class -> lastModified(1517635845631)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\services\Counter.class -> lastModified(1517635845624)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\index$.class -> lastModified(1517635845955)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\index.class -> lastModified(1517635845967)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\main$.class -> lastModified(1517635846001)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\main.class -> lastModified(1517635846007)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\welcome$.class -> lastModified(1517635846052)
+D:\dev\ideaworks\Market\target\scala-2.12\classes\views\html\welcome.class -> lastModified(1517635846061)
+source stamps:
+15 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> hash(33bb973b0b4459aaefbc9961bd42cb71bf2b0a88)
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> hash(e4fd200f018e7a8a97a84ca3ea19fddfd201b675)
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> hash(cfd75842ef5e665af69687fe8f3f1be9dc50e8f5)
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> hash(8155b9553fa8e7428b89c09299305ffbed68d2bc)
+D:\dev\ideaworks\Market\app\Module.scala -> hash(9e71d0cc1d7bf4bac3c48b9b0720429182f48d2f)
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> hash(80d0ebb8f6676d6cde65085ec77fb99f48728c9b)
+D:\dev\ideaworks\Market\app\services\Counter.scala -> hash(09c7042308e3aefc9c2e5905a95c0e5664616ab7)
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> hash(24533c1d90989598498a1940d4f99f58070107f1)
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> hash(c8ee76e87a0f1619df9e863cfbf0661c37355c75)
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> hash(edcc5ee9dd9fab3652d0f14ca5fce24c6239706a)
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> hash(d024b84288bf49e1342224a18b08001a6db14287)
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> hash(eae3cf436ab7a600a56b58d72ff41169b805bed6)
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> hash(6b321d636156922f8cf250fba6ac5f7c9694904d)
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> hash(a2c742c39f2f0b3f6483498522d6b3b726a0a429)
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> hash(8fba989ab28d1a5d87774c6262c718a69e0d7493)
+binary stamps:
+7 items
+C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar -> lastModified(1516170815325)
+C:\Users\zjw\.ivy2\cache\com.google.inject\guice\jars\guice-4.1.0.jar -> lastModified(1466193194000)
+C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.8.jar -> lastModified(1512666589000)
+C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.8.jar -> lastModified(1512666711000)
+C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar -> lastModified(1515701842000)
+C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar -> lastModified(1506711552000)
+C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar -> lastModified(1507705630000)
+class names:
+7 items
+C:\Program Files\Java\jdk1.8.0_161\jre\lib\rt.jar -> java.lang.Object
+C:\Users\zjw\.ivy2\cache\com.google.inject\guice\jars\guice-4.1.0.jar -> com.google.inject.AbstractModule
+C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.8.jar -> akka.actor.ActorSystem$
+C:\Users\zjw\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.8.jar -> akka.stream.Materializer
+C:\Users\zjw\.ivy2\cache\com.typesafe.play\play_2.12\jars\play_2.12-2.6.11.jar -> play.api.templates.PlayMagic$
+C:\Users\zjw\.ivy2\cache\com.typesafe.play\twirl-api_2.12\jars\twirl-api_2.12-1.3.12.jar -> play.twirl.api.Template2
+C:\Users\zjw\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar -> scala.Function1
+internal apis:
+15 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB7qpTAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHA8UZ/3dAANZmlsZU1pbWVUeXBlc3NxAH4ACwERW9x0AA9yZXF1ZXN0MnNlc3Npb25zcQB+AAs5Z+1bdAALbWVzc2FnZXNBcGlzcQB+AAvf5ft0dAAOc3VwcG9ydGVkTGFuZ3NzcQB+AAu3I3T0dAANcmVxdWVzdDJmbGFzaHVxAH4ACQAAAQpzcQB+AAvStw/edAAMUmVzZXRDb250ZW50c3EAfgALJ5gRRXQADU5vdEFjY2VwdGFibGVzcQB+AAsdn31fdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAvQ5ZnHdAAIc2VuZEZpbGVzcQB+AAvV1hHadAAIbmV3Rmxhc2hzcQB+AAud+CrqdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALAYdIk3QABkxvY2tlZHNxAH4ACxiUwgd0AAZub3RpZnlzcQB+AAtXDHOOdAAERlJPTXNxAH4AC1cR59R0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALs1QLWnQAB0NSRUFURURzcQB+AAs9I2aWdAAHdW5hcHBseXNxAH4ACw+1PZV0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALFYnp8nQAB1dBUk5JTkdzcQB+AAtFSVpJdAAPUGF5bWVudFJlcXVpcmVkc3EAfgALhxju8nQACENPTlRJTlVFc3EAfgALL6wgxXQABGJvZHlzcQB+AAssM0XpdAAFWEhUTUxzcQB+AAvkkwfSdAALU0VUX0NPT0tJRTJzcQB+AAuqMh2wdAAISFRUUF8xXzFzcQB+AAtbf6d0dAAVYmFrZUNvb2tpZXMkZGVmYXVsdCQyc3EAfgALk58elXQAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAvzhuYPdAAMQ09OVEVOVF9UWVBFc3EAfgALphA8DnQABkJJTkFSWXNxAH4AC6RvKPJ0AAR3YWl0c3EAfgAL58ZqqXQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAt/Hq7mdAAKQmFkR2F0ZXdheXNxAH4AC+5akL10ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALEVyfa3QADlRvb01hbnlSZXF1ZXN0c3EAfgALvY62jHQAClVTRVJfQUdFTlRzcQB+AAsbMpHFdAAWc2VuZFJlc291cmNlJGRlZmF1bHQkMnNxAH4AC6K+LQh0AARIT1NUc3EAfgALEiA2KXQAC0NPTlRFTlRfTUQ1c3EAfgALPzobB3QADmNvcHkkZGVmYXVsdCQyc3EAfgALtB1ma3QAB0NyZWF0ZWRzcQB+AAt3+n5edAANJGFzSW5zdGFuY2VPZnNxAH4AC5OxAKd0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgAL54xZfXQAElN3aXRjaGluZ1Byb3RvY29sc3NxAH4ACzVLpvR0AApKYXZhU2NyaXB0c3EAfgALPIwm03QAC0JBRF9SRVFVRVNUc3EAfgALx6i8AnQADk5vdEltcGxlbWVudGVkc3EAfgALOOymKnQADE1BWF9GT1JXQVJEU3NxAH4AC7E/syZ0AA5jb3B5JGRlZmF1bHQkNXNxAH4AC9kyKIx0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALBjEh9XQAA0NTU3NxAH4ACwpSI3x0AAhTZWVPdGhlcnNxAH4AC3w+d9x0AAdUUkFJTEVSc3EAfgALFSYD5nQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4AC+NUywN0AA1BVVRIT1JJWkFUSU9Oc3EAfgALp4QybnQAA1hNTHNxAH4AC5FFLEN0AA1DQUNIRV9DT05UUk9Mc3EAfgALyXCD+HQAFWJha2VDb29raWVzJGRlZmF1bHQkMXNxAH4ACw1YXbx0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAtm2MktdAAPTk9UX0lNUExFTUVOVEVEc3EAfgAL2wjQC3QADHByb2R1Y3RBcml0eXNxAH4AC4yg6ap0AAZlcXVhbHNzcQB+AAuRIXgSdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC5OUWIN0AAhBY2NlcHRlZHNxAH4AC1iz5Dl0AAtSRVRSWV9BRlRFUnNxAH4AC6ZubXB0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAv16RpWdAAESlNPTnNxAH4AC1IZVx50AAhSZWRpcmVjdHNxAH4AC9HLHI90ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAL1anxc3QADlBhcnRpYWxDb250ZW50c3EAfgALHb26SnQAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgAL5/4XwHQACENPTkZMSUNUc3EAfgALEngpvXQAEnNlbmRGaWxlJGRlZmF1bHQkMnNxAH4ACxEVXnB0AA5BQ0NFUFRfQ0hBUlNFVHNxAH4AC3plglp0ABFQZXJtYW5lbnRSZWRpcmVjdHNxAH4AC0iGK4d0AApuZXdDb29raWVzc3EAfgALLF4G+HQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALusRxbnQAA1ZJQXNxAH4ACy25c5N0AAxhc0luc3RhbmNlT2ZzcQB+AAsilekxdAAPUkVRVUVTVF9USU1FT1VUc3EAfgALV6zYFnQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAtFc/4RdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAsMzI2mdAACVEVzcQB+AAtfTYcWdAAOR2F0ZXdheVRpbWVvdXRzcQB+AAtc/SnqdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4AC9JTt/l0AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAvXyZ/+dAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4AC0TvMYJ0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4ACxwJinx0AAxFVkVOVF9TVFJFQU1zcQB+AAsCt4CYdAAMc3luY2hyb25pemVkc3EAfgALQwz/wHQAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAufVxMadAAERVRBR3NxAH4AC+GbCwF0AA9MRU5HVEhfUkVRVUlSRURzcQB+AAtG6XPTdAAOd2l0aE5ld1Nlc3Npb25zcQB+AAt5nZwadAAKSkFWQVNDUklQVHNxAH4ACyHAlMJ0AA5FbnRpdHlUb29MYXJnZXNxAH4ACwEM8eZ0AAxVTkFVVEhPUklaRURzcQB+AAs6qX9udAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgALXkB8SnQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAsknrEKdAAXZGVmYXVsdEV4ZWN1dGlvbkNvbnRleHRzcQB+AAttH4shdAANJGlzSW5zdGFuY2VPZnNxAH4AC0MErah0AAdSRUZFUkVSc3EAfgALWXbEPXQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC06q9WF0AAZPUklHSU5zcQB+AAs1h0VMdAALd2l0aENvb2tpZXNzcQB+AAs9/SLydAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALuKR/dXQADE5PVF9NT0RJRklFRHNxAH4ACwUxYs90AAJhc3NxAH4AC+827750ABRjb250cm9sbGVyQ29tcG9uZW50c3NxAH4ACxKolCB0AAt3aXRoU2Vzc2lvbnNxAH4AC6Ulb0R0ABViYWtlQ29va2llcyRkZWZhdWx0JDNzcQB+AAstCEJndAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAu8aD+HdAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALYMiO93QAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC945x9Z0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALrMlkDHQACUltQVRlYXBvdHNxAH4ACxjK/k50AAhjYW5FcXVhbHNxAH4ACzyaArB0AAhOb3RGb3VuZHNxAH4AC3wNvnp0AAhJRl9SQU5HRXNxAH4AC57Wk9Z0ABJzZW5kRmlsZSRkZWZhdWx0JDRzcQB+AAswvmBgdAAOY29weSRkZWZhdWx0JDRzcQB+AAtXAXHDdAAIZmxhc2hpbmdzcQB+AAvtY9TWdAAERk9STXNxAH4ACyJN/fJ0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgAL+X0jVHQAE1NXSVRDSElOR19QUk9UT0NPTFNzcQB+AAv+j5J+dAASVEVNUE9SQVJZX1JFRElSRUNUc3EAfgALWd8EWnQADXByb2R1Y3RQcmVmaXhzcQB+AAu1F0WSdAAOQ09OVEVOVF9MRU5HVEhzcQB+AAsIIq7jdAALSU1fQV9URUFQT1RzcQB+AAtsza4zdAAKU0VUX0NPT0tJRXNxAH4AC59w8p90AAlub3RpZnlBbGxzcQB+AAujQkM0dAADQUdFc3EAfgALcX6ztHQAC0JBRF9HQVRFV0FZc3EAfgALAfHwJ3QAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4ACzaFeOt0AApDT05ORUNUSU9Oc3EAfgAL3bnZ0XQACUZPUldBUkRFRHNxAH4AC4NJrvp0AAJPa3NxAH4AC5qrBGh0AAxpc0luc3RhbmNlT2ZzcQB+AAviC5VTdAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC9eiyn10AAJPS3NxAH4AC1mTzbt0AAZhc0phdmFzcQB+AAsFTJkYdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAsf7fHCdAAETElOS3NxAH4AC+xZzul0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgALagIHLHQACm5ld1Nlc3Npb25zcQB+AAvjybGkdAAZU1RSSUNUX1RSQU5TUE9SVF9TRUNVUklUWXNxAH4AC0rZBq90AA5DQUNIRV9NQU5JRkVTVHNxAH4ACwzIfSN0AAlGb3JiaWRkZW5zcQB+AAsp0rvfdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAtMKAK1dAAEVEVYVHNxAH4ACwXp3uF0AApCYWRSZXF1ZXN0c3EAfgALYDUSAXQABUZPVU5Ec3EAfgALOkTBQHQABjxpbml0PnNxAH4AC7AYRQ10AAtOb3RNb2RpZmllZHNxAH4AC6wq+Nh0AAREQVRFc3EAfgALFMC0/3QABWFzeW5jc3EAfgAL3M/E+HQADUNPTlRFTlRfUkFOR0VzcQB+AAvhzJI4dAAEJGFtcHNxAH4AC2LZGuV0AAxzZW5kUmVzb3VyY2VzcQB+AAtYATE9dAAHY2h1bmtlZHNxAH4AC4aRkrd0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4ACwGRzax0ABJQRVJNQU5FTlRfUkVESVJFQ1RzcQB+AAuPg6frdAAFYXBwbHlzcQB+AAuootwhdAARVE9PX01BTllfUkVRVUVTVFNzcQB+AAut6o95dAAFcGFyc2VzcQB+AAtXfgTPdAATUFJPWFlfQVVUSE9SSVpBVElPTnNxAH4ACwjLbL10AAI9PXNxAH4AC5vNLTp0AARHT05Fc3EAfgALaXqYEnQAD0FzeW5jQ29udHJvbGxlcnNxAH4AC9JKWud0AARHb25lc3EAfgALIKNe7nQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALxyIJTXQADk5PVF9BQ0NFUFRBQkxFc3EAfgALzuERF3QABWNsb25lc3EAfgALOk19G3QABkVYUEVDVHNxAH4AC3OeqQx0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQzc3EAfgALYLbdmnQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC7OgtIB0AAhMT0NBVElPTnNxAH4AC3xZMcZ0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAsizMnjdAAEVkFSWXNxAH4AC4p0mPd0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALp3UstnQABFRPRE9zcQB+AAvWMfqVdAAPWF9GT1JXQVJERURfRk9Sc3EAfgALXk2UGnQABiRpbml0JHNxAH4ACwGNYQ90ABJQcmVjb25kaXRpb25GYWlsZWRzcQB+AAtzf+b/dAAIQUNDRVBURURzcQB+AAu/43i3dAAESHRtbHNxAH4AC5CKTsB0AApOT19DT05URU5Uc3EAfgALx/MPV3QACEhUVFBfMV8wc3EAfgAL1/oKLHQAFUlOVEVSTkFMX1NFUlZFUl9FUlJPUnNxAH4ACzvWbjh0ABViYWtlQ29va2llcyRkZWZhdWx0JDRzcQB+AAvfzryTdAAHVVBHUkFERXNxAH4AC0INXVh0AAtiYWtlQ29va2llc3NxAH4ACws107J0AAlOT1RfRk9VTkRzcQB+AAvadJNTdAAHc2Vzc2lvbnNxAH4AC3LDbx10AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAtp3fjmdAATSW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4AC6/ZTQZ0AAdFWFBJUkVTc3EAfgALbk5NxXQADmNvcHkkZGVmYXVsdCQzc3EAfgALdN1lGnQABGNvcHlzcQB+AAsk2LvMdAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4AC76006B0AAZoZWFkZXJzcQB+AAsNkyzMdAAQVVBHUkFERV9SRVFVSVJFRHNxAH4AC+lQ+TF0AAdtZXNzYWdlc3EAfgALJzswkXQAD1Rvb01hbnlSZXF1ZXN0c3NxAH4AC1aEaTJ0AAh0b1N0cmluZ3NxAH4ACzgpsrF0AAxVbmF1dGhvcml6ZWRzcQB+AAt2iOA8dAAOUmVxdWVzdFRpbWVvdXRzcQB+AAvT25GydAAGQUNDRVBUc3EAfgALptLZVnQAClVyaVRvb0xvbmdzcQB+AAtlE6t9dAAPR0FURVdBWV9USU1FT1VUc3EAfgALidgzyXQAC011bHRpU3RhdHVzc3EAfgALJis8bnQABlNFUlZFUnNxAH4ACw+5vRN0AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4AC8QDpSx0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4AC+ZtTKN0ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgALX9Sej3QACHNlbmRQYXRoc3EAfgALdfRFJHQACnNlbmRFbnRpdHlzcQB+AAvPRZwFdAACIT1zcQB+AAsiGf+OdAANTEFTVF9NT0RJRklFRHNxAH4AC0duuWR0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4AC+eHLf10AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAssrSoGdAALd2l0aENoYXJzZXRzcQB+AAt8ewRqdAAIQ29uZmxpY3RzcQB+AAvEojUkdAAFQUxMT1dzcQB+AAvRSfCJdAAGQ09PS0lFc3EAfgALgUrtHnQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALWSvPQnQACGdldENsYXNzc3EAfgALmgDFpHQAA1htbHNxAH4AC6Wbt1V0ABlDT05URU5UX1RSQU5TRkVSX0VOQ09ESU5Hc3EAfgALONrMc3QADmNvcHkkZGVmYXVsdCQxc3EAfgAL7z8PEnQABEhUTUxzcQB+AAtfQQNFdAAFRm91bmRzcQB+AAuhUPgOdAAdTk9OX0FVVEhPUklUQVRJVkVfSU5GT1JNQVRJT05zcQB+AAvWkfmydAAGcmVuZGVyc3EAfgALolDsNnQABlBSQUdNQXNxAH4AC/jKJ4V0AAhJRl9NQVRDSHNxAH4ACy2XDo10AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4AC/2/4nx0AA1SRVNFVF9DT05URU5Uc3EAfgALLLRVQXQACVNFRV9PVEhFUnNxAH4AC6V+CV50ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC4SWPMB0AAJuZXNxAH4AC+DVXZ90ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALl2YDEHQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAs3JIvWdAAFUkFOR0VzcQB+AAsL5iewdAAPd2l0aERhdGVIZWFkZXJzc3EAfgALvJ0FLHQACVVTRV9QUk9YWXNxAH4ACxi3wjt0AAdBY2NlcHRzc3EAfgALlkTLGHQAB0NIVU5LRURzcQB+AAum7X2QdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAtg6w7xdAASUmVkaXJlY3QkZGVmYXVsdCQzc3EAfgALzmgcjHQABkxPQ0tFRHNxAH4AC/JsgZx0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAvtL6VPdAAGQWN0aW9uc3EAfgALYEV6yHQABEpzb25zcQB+AAu/j0TSdAAJRk9SQklEREVOc3EAfgALMFq0ZHQAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC1KW8bZ0AAJlcXNxAH4AC4zB0bx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsvotLjdAANSUZfTk9ORV9NQVRDSHNxAH4ACzWj5dB0AA1BQ0NFUFRfUkFOR0VTc3EAfgALH5mct3QACU5vQ29udGVudHNxAH4AC08BofR0ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgALVusIYHQAEVhfRk9SV0FSREVEX1BST1RPc3EAfgALAf4zNXQACENvbnRpbnVlc3EAfgALrWygT3QADE1VTFRJX1NUQVRVU3NxAH4AC/TTrdN0AAIjI3NxAH4AC6GlZRl0AAhmaW5hbGl6ZXNxAH4AC6k/s3J0ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgAL2vnQ/HQADnByb2R1Y3RFbGVtZW50c3EAfgAL++u7T3QACGhhc2hDb2Rlc3EAfgALvo+34XQABlN0YXR1c3NxAH4AC4OjHjF0AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AjV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0AAIoKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAlTaW5nbGV0b25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+Ak5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWphdmF4c3EAfgJadAAGaW5qZWN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AltzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABtjb250cm9sbGVycy5Bc3luY0NvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABNqYXZheC5pbmplY3QuSW5qZWN0dAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+Ak5zcQB+Am9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CNUwACWluaGVyaXRlZHEAfgI1TAAHcGFyZW50c3EAfgI1eHEAfgJPc3EAfgJvdXEAfgIwAAAAAHNxAH4Cb3VxAH4CMAAAAABzcQB+Am91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAD3NxAH4CTHQAEkFic3RyYWN0Q29udHJvbGxlcnNxAH4CUnNxAH4CVXVxAH4CWAAAAARzcQB+Alp0AARwbGF5c3EAfgJadAADYXBpc3EAfgJadAADbXZjcQB+AmFzcQB+Akx0AA5CYXNlQ29udHJvbGxlcnEAfgKAc3EAfgJMdAAVQmFzZUNvbnRyb2xsZXJIZWxwZXJzcQB+AoBzcQB+Akx0ABFDb250cm9sbGVySGVscGVyc3EAfgKAc3EAfgJMdAAQUmVxdWVzdEltcGxpY2l0c3EAfgKAc3EAfgJMdAAJUmVuZGVyaW5ncQB+AoBzcQB+Akx0ABFSZXF1ZXN0RXh0cmFjdG9yc3EAfgKAc3EAfgJMdAAQQWNjZXB0RXh0cmFjdG9yc3EAfgKAc3EAfgJMdAAMQ29udGVudFR5cGVzc3EAfgJSc3EAfgJVdXEAfgJYAAAABHNxAH4CWnQABHBsYXlzcQB+AlpxAH4ChnNxAH4CWnQABGh0dHBxAH4CYXNxAH4CTHQAC0hlYWRlck5hbWVzcQB+AplzcQB+Akx0AAZTdGF0dXNxAH4CmXNxAH4CTHQADEh0dHBQcm90b2NvbHEAfgKZc3EAfgJMdAAHUmVzdWx0c3EAfgKAc3EAfgJMdAAGT2JqZWN0c3EAfgJSc3EAfgJVdXEAfgJYAAAAA3NxAH4CWnQABGphdmFzcQB+Alp0AARsYW5ncQB+AmFzcQB+Akx0AANBbnlzcQB+AlJzcQB+AlV1cQB+AlgAAAACc3EAfgJadAAFc2NhbGFxAH4CYXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhWiR/uXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADFEOlxkZXZcaWRlYXdvcmtzXE1hcmtldFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUM7uXOwtEWarvvJlhvULLcb8rCog=
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbSQ/fQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCEC9SZdAANZmlsZU1pbWVUeXBlc3NxAH4ACyhO1050AA9yZXF1ZXN0MnNlc3Npb25zcQB+AAuQFczKdAALbWVzc2FnZXNBcGlzcQB+AAtGfQ3vdAAOc3VwcG9ydGVkTGFuZ3NzcQB+AAvPAcebdAANcmVxdWVzdDJmbGFzaHVxAH4ACQAAAQpzcQB+AAvwyS67dAAMUmVzZXRDb250ZW50c3EAfgAL+AMswXQADU5vdEFjY2VwdGFibGVzcQB+AAtHQkRIdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAsovQq4dAAIc2VuZEZpbGVzcQB+AAttOeVbdAAIbmV3Rmxhc2hzcQB+AAvNJYQ0dAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALhdo+0XQABkxvY2tlZHNxAH4ACyoEXAl0AAZub3RpZnlzcQB+AAvJ3/gmdAAERlJPTXNxAH4AC84Bw9h0ABBDT05URU5UX0xBTkdVQUdFc3EAfgAL3nI6LXQAB0NSRUFURURzcQB+AAtqdGQndAAHdW5hcHBseXNxAH4AC+L7j4x0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgAL7RvSj3QAB1dBUk5JTkdzcQB+AAv2S9cxdAAPUGF5bWVudFJlcXVpcmVkc3EAfgALesyo73QACENPTlRJTlVFc3EAfgALQZsFJnQABGJvZHlzcQB+AAsw6kaadAAFWEhUTUxzcQB+AAueEi9idAALU0VUX0NPT0tJRTJzcQB+AAvi/QFJdAAISFRUUF8xXzFzcQB+AAs7P8IRdAAVYmFrZUNvb2tpZXMkZGVmYXVsdCQyc3EAfgALkvIg7nQABWNvdW50c3EAfgALbHvyc3QAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAt/vNy5dAAMQ09OVEVOVF9UWVBFc3EAfgALcfNaoXQABkJJTkFSWXNxAH4AC8grb6h0AAR3YWl0c3EAfgAL2sjzzHQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAtvvJ1tdAAKQmFkR2F0ZXdheXNxAH4AC0Dk2q50ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALpq0v+3QADlRvb01hbnlSZXF1ZXN0c3EAfgALHlXsinQAClVTRVJfQUdFTlRzcQB+AAs0liLIdAAWc2VuZFJlc291cmNlJGRlZmF1bHQkMnNxAH4ACyLPTQh0AARIT1NUc3EAfgALPbFjk3QAC0NPTlRFTlRfTUQ1c3EAfgALFriXmHQADmNvcHkkZGVmYXVsdCQyc3EAfgALdOoUp3QAB0NyZWF0ZWRzcQB+AAt89b62dAANJGFzSW5zdGFuY2VPZnNxAH4AC5yZuCd0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgALIQpHpnQAElN3aXRjaGluZ1Byb3RvY29sc3NxAH4AC89g44V0AApKYXZhU2NyaXB0c3EAfgAL2lfUC3QAC0JBRF9SRVFVRVNUc3EAfgAL058ekXQADk5vdEltcGxlbWVudGVkc3EAfgAL4v1knnQADE1BWF9GT1JXQVJEU3NxAH4AC8k2VyF0AA5jb3B5JGRlZmF1bHQkNXNxAH4ACxW8rY90ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgAL/MEJ03QAA0NTU3NxAH4ACynCGdF0AAhTZWVPdGhlcnNxAH4ACwxwHBV0AAdUUkFJTEVSc3EAfgALMk1TSHQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4AC7B+U2N0AA1BVVRIT1JJWkFUSU9Oc3EAfgALMMfQy3QAA1hNTHNxAH4ACzd1Vwt0AA1DQUNIRV9DT05UUk9Mc3EAfgALgRj8q3QAFWJha2VDb29raWVzJGRlZmF1bHQkMXNxAH4AC50Yb7Z0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAvddiypdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALf227n3QADHByb2R1Y3RBcml0eXNxAH4AC/M+mVp0AAZlcXVhbHNzcQB+AAulUd9tdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC6ir2m10AAhBY2NlcHRlZHNxAH4AC5oFUM10AAtSRVRSWV9BRlRFUnNxAH4AC6te8H10ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAsyhDpqdAAESlNPTnNxAH4AC4fhWgV0AAhSZWRpcmVjdHNxAH4ACwkWaH10ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgALzKFs63QADlBhcnRpYWxDb250ZW50c3EAfgALikEVw3QAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgALNM5NbnQACENPTkZMSUNUc3EAfgALOXbUiXQAEnNlbmRGaWxlJGRlZmF1bHQkMnNxAH4AC+t4JWF0AA5BQ0NFUFRfQ0hBUlNFVHNxAH4AC3nGXTR0ABFQZXJtYW5lbnRSZWRpcmVjdHNxAH4AC6rvj8t0AApuZXdDb29raWVzc3EAfgALAlzJBnQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALGdHFqHQAA1ZJQXNxAH4AC7twm6V0AAxhc0luc3RhbmNlT2ZzcQB+AAu+MdM1dAAPUkVRVUVTVF9USU1FT1VUc3EAfgALrUwya3QAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAurfTjGdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAtq3gW8dAACVEVzcQB+AAuAwVs/dAAOR2F0ZXdheVRpbWVvdXRzcQB+AAuOqzExdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4AC0iTk0x0AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAtyke3XdAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4AC/6vR1R0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4AC1Im+7p0AAxFVkVOVF9TVFJFQU1zcQB+AAs+cuVHdAAMc3luY2hyb25pemVkc3EAfgALsFMM1nQAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAv3SNaXdAAERVRBR3NxAH4ACygQnm90AA9MRU5HVEhfUkVRVUlSRURzcQB+AAtdfSfbdAAOd2l0aE5ld1Nlc3Npb25zcQB+AAudayNNdAAKSkFWQVNDUklQVHNxAH4AC0cZAyJ0AA5FbnRpdHlUb29MYXJnZXNxAH4AC6iq2ap0AAxVTkFVVEhPUklaRURzcQB+AAsu32XcdAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgALSJ/6YXQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAvHUD87dAAXZGVmYXVsdEV4ZWN1dGlvbkNvbnRleHRzcQB+AAt0h/pLdAANJGlzSW5zdGFuY2VPZnNxAH4AC9QxX2J0AAdSRUZFUkVSc3EAfgAL2cyWn3QAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC4Wdo1p0AAZPUklHSU5zcQB+AAtyize3dAALd2l0aENvb2tpZXNzcQB+AAve5ba6dAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALyzD3KHQADE5PVF9NT0RJRklFRHNxAH4AC8FNhud0AAJhc3NxAH4ACxmSfwd0ABRjb250cm9sbGVyQ29tcG9uZW50c3NxAH4AC/QAvtF0AAt3aXRoU2Vzc2lvbnNxAH4AC6aFgdN0ABViYWtlQ29va2llcyRkZWZhdWx0JDNzcQB+AAs18F0LdAAPQ291bnRDb250cm9sbGVyc3EAfgALNOnU33QAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALmgHbo3QAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4ACweOTCF0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAs/dxmSdAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4AC7pT6DN0AAlJbUFUZWFwb3RzcQB+AAuI6kOxdAAIY2FuRXF1YWxzcQB+AAt0mOu7dAAITm90Rm91bmRzcQB+AAsvOq1QdAAISUZfUkFOR0VzcQB+AAsDHJJcdAASc2VuZEZpbGUkZGVmYXVsdCQ0c3EAfgALPMITqnQADmNvcHkkZGVmYXVsdCQ0c3EAfgALN2GBBnQACGZsYXNoaW5nc3EAfgALMbT4b3QABEZPUk1zcQB+AAu3SjaUdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4ACw1E1wh0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALHPJ9N3QAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ACyAmHxR0AA1wcm9kdWN0UHJlZml4c3EAfgALll5Oa3QADkNPTlRFTlRfTEVOR1RIc3EAfgALLtpvvHQAC0lNX0FfVEVBUE9Uc3EAfgAL8QCz03QAClNFVF9DT09LSUVzcQB+AAu1Zhr0dAAJbm90aWZ5QWxsc3EAfgALTvRPZ3QAA0FHRXNxAH4AC4rMA0d0AAtCQURfR0FURVdBWXNxAH4AC1At1Ct0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAtj2sCQdAAKQ09OTkVDVElPTnNxAH4ACy1ENGV0AAlGT1JXQVJERURzcQB+AAtSVIM6dAACT2tzcQB+AAuV/MaNdAAMaXNJbnN0YW5jZU9mc3EAfgALCNg2WHQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAvx7Y4RdAACT0tzcQB+AAuuCOgPdAAGYXNKYXZhc3EAfgALj8ULTHQAEWRpc2NhcmRpbmdDb29raWVzc3EAfgALo+rZGXQABExJTktzcQB+AAvcIXrNdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC/UlDN50AApuZXdTZXNzaW9uc3EAfgAL0FxICnQAGVNUUklDVF9UUkFOU1BPUlRfU0VDVVJJVFlzcQB+AAs708qKdAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAt1wqLKdAAJRm9yYmlkZGVuc3EAfgALh/+tn3QAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgALFlV8P3QABFRFWFRzcQB+AAt9XSg7dAAKQmFkUmVxdWVzdHNxAH4AC9XY5Sx0AAVGT1VORHNxAH4ACxia5zB0AAY8aW5pdD5zcQB+AAvrpB72dAALTm90TW9kaWZpZWRzcQB+AAvXnnevdAAEREFURXNxAH4AC+aJzF50AAVhc3luY3NxAH4AC/SE2JB0AA1DT05URU5UX1JBTkdFc3EAfgALmNCgLHQABCRhbXBzcQB+AAuTZ26ddAAMc2VuZFJlc291cmNlc3EAfgALQa/v83QAB2NodW5rZWRzcQB+AAva+kCJdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAs5cbs4dAASUEVSTUFORU5UX1JFRElSRUNUc3EAfgAL2R7+w3QABWFwcGx5c3EAfgALsDczOnQAEVRPT19NQU5ZX1JFUVVFU1RTc3EAfgALVtwTkHQABXBhcnNlc3EAfgALLcMPmXQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAuok3MjdAACPT1zcQB+AAshV0XMdAAER09ORXNxAH4ACzfujn50AARHb25lc3EAfgALzbRxUnQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgALmGiNLHQADk5PVF9BQ0NFUFRBQkxFc3EAfgAL+KbCRHQABWNsb25lc3EAfgAL+Ds/ZXQABkVYUEVDVHNxAH4AC+uwJEZ0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQzc3EAfgALusysPHQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4ACzqc1at0AAhMT0NBVElPTnNxAH4AC2FOCwJ0ABJzZW5kUGF0aCRkZWZhdWx0JDRzcQB+AAsMelGhdAAEVkFSWXNxAH4ACwIB2dN0ABBXV1dfQVVUSEVOVElDQVRFc3EAfgALUpZgNXQABFRPRE9zcQB+AAvZEJuJdAAPWF9GT1JXQVJERURfRk9Sc3EAfgALcXdOkHQABiRpbml0JHNxAH4AC1cJWA50ABJQcmVjb25kaXRpb25GYWlsZWRzcQB+AAtzncIgdAAIQUNDRVBURURzcQB+AAsODEVPdAAESHRtbHNxAH4AC7Rh3XV0AApOT19DT05URU5Uc3EAfgALT/aSenQACEhUVFBfMV8wc3EAfgALhn0RzHQAFUlOVEVSTkFMX1NFUlZFUl9FUlJPUnNxAH4AC8TDba90ABViYWtlQ29va2llcyRkZWZhdWx0JDRzcQB+AAvK91VbdAAHVVBHUkFERXNxAH4AC4TA7mR0AAtiYWtlQ29va2llc3NxAH4AC5afS1p0AAlOT1RfRk9VTkRzcQB+AAspE8GudAAHc2Vzc2lvbnNxAH4ACxYc/WN0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAu8gLUvdAATSW50ZXJuYWxTZXJ2ZXJFcnJvcnNxAH4AC2h4GT10AAdFWFBJUkVTc3EAfgAL1yvkGXQADmNvcHkkZGVmYXVsdCQzc3EAfgALDZz8WXQABGNvcHlzcQB+AAt55XC+dAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4ACxn41+F0AAZoZWFkZXJzcQB+AAvkcenldAAQVVBHUkFERV9SRVFVSVJFRHNxAH4AC3HrLjd0AA9Ub29NYW55UmVxdWVzdHNzcQB+AAtRsZrNdAAIdG9TdHJpbmdzcQB+AAst3L+BdAAMVW5hdXRob3JpemVkc3EAfgALYwLSFXQADlJlcXVlc3RUaW1lb3V0c3EAfgAL3fuzlXQABkFDQ0VQVHNxAH4AC3GhZIB0AApVcmlUb29Mb25nc3EAfgALRKQKaXQAD0dBVEVXQVlfVElNRU9VVHNxAH4ACwy6vxF0AAtNdWx0aVN0YXR1c3NxAH4AC/Ad0Q50AAZTRVJWRVJzcQB+AAupvoL3dAAdQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9NRVRIT0RzcQB+AAtpNqamdAAUVU5QUk9DRVNTQUJMRV9FTlRJVFlzcQB+AAvviuYYdAAWQUNDRVNTX0NPTlRST0xfTUFYX0FHRXNxAH4AC56iy8p0AAhzZW5kUGF0aHNxAH4AC7gV0k50AApzZW5kRW50aXR5c3EAfgAL6v/j6XQAAiE9c3EAfgAL809V4XQADUxBU1RfTU9ESUZJRURzcQB+AAuRhlS6dAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAtnqFH+dAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgALWkTpB3QAC3dpdGhDaGFyc2V0c3EAfgALrHrLH3QACENvbmZsaWN0c3EAfgALsKE0r3QABUFMTE9Xc3EAfgALl2B9NnQABkNPT0tJRXNxAH4AC8pwkTJ0ABFJRl9NT0RJRklFRF9TSU5DRXNxAH4AC42hZ6x0AAhnZXRDbGFzc3NxAH4AC+Veopd0AANYbWxzcQB+AAt7gYrJdAAZQ09OVEVOVF9UUkFOU0ZFUl9FTkNPRElOR3NxAH4AC545uwh0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC+USvyN0AARIVE1Mc3EAfgALjpQZbXQABUZvdW5kc3EAfgALyUwQ0nQAHU5PTl9BVVRIT1JJVEFUSVZFX0lORk9STUFUSU9Oc3EAfgALEuUTmHQABnJlbmRlcnNxAH4AC3EqhsZ0AAZQUkFHTUFzcQB+AAtRZiw6dAAISUZfTUFUQ0hzcQB+AAs2sCWHdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAvx6ctYdAANUkVTRVRfQ09OVEVOVHNxAH4AC2H5cnp0AAlTRUVfT1RIRVJzcQB+AAvmpAHAdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAuWxdATdAACbmVzcQB+AAtcMA0HdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC6USBR90ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALa+WX6HQABVJBTkdFc3EAfgALIo/xV3QAD3dpdGhEYXRlSGVhZGVyc3NxAH4AC29eI/90AAlVU0VfUFJPWFlzcQB+AAvZDspRdAAHQWNjZXB0c3NxAH4ACyH36+50AAdDSFVOS0VEc3EAfgALKtd87nQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgALn4KodXQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC/4rAjZ0AAZMT0NLRURzcQB+AAsqd1eadAASc2VuZFBhdGgkZGVmYXVsdCQzc3EAfgALXY7O3XQABkFjdGlvbnNxAH4AC+atw0d0AARKc29uc3EAfgALaBS9BXQACUZPUkJJRERFTnNxAH4AC9VyIvp0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAsgH1/bdAACZXFzcQB+AAs9NZuidAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALUcPXSXQADUlGX05PTkVfTUFUQ0hzcQB+AAuuT/8idAANQUNDRVBUX1JBTkdFU3NxAH4AC3AuoTV0AAlOb0NvbnRlbnRzcQB+AAtwJyiBdAAQWF9SRVFVRVNURURfV0lUSHNxAH4ACzqDuE50ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4ACyStlAZ0AAhDb250aW51ZXNxAH4AC2yl/Pt0AAxNVUxUSV9TVEFUVVNzcQB+AAvOAD4WdAACIyNzcQB+AAsNMS1DdAAIZmluYWxpemVzcQB+AAueJWsfdAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4ACz92AvZ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC0kwtjl0AAhoYXNoQ29kZXNxAH4ACwSgSLR0AAZTdGF0dXNzcQB+AAtb52pydAALd2l0aEhlYWRlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgI1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAACKClzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAJU2luZ2xldG9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVqYXZheHNxAH4CWnQABmluamVjdHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgJbc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAbY29udHJvbGxlcnMuQ291bnRDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAATamF2YXguaW5qZWN0LkluamVjdHQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgJOc3EAfgJvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AjVMAAlpbmhlcml0ZWRxAH4CNUwAB3BhcmVudHNxAH4CNXhxAH4CT3NxAH4Cb3VxAH4CMAAAAABzcQB+Am91cQB+AjAAAAAAc3EAfgJvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAA9zcQB+Akx0ABJBYnN0cmFjdENvbnRyb2xsZXJzcQB+AlJzcQB+AlV1cQB+AlgAAAAEc3EAfgJadAAEcGxheXNxAH4CWnQAA2FwaXNxAH4CWnQAA212Y3EAfgJhc3EAfgJMdAAOQmFzZUNvbnRyb2xsZXJxAH4CgHNxAH4CTHQAFUJhc2VDb250cm9sbGVySGVscGVyc3EAfgKAc3EAfgJMdAARQ29udHJvbGxlckhlbHBlcnNxAH4CgHNxAH4CTHQAEFJlcXVlc3RJbXBsaWNpdHNxAH4CgHNxAH4CTHQACVJlbmRlcmluZ3EAfgKAc3EAfgJMdAARUmVxdWVzdEV4dHJhY3RvcnNxAH4CgHNxAH4CTHQAEEFjY2VwdEV4dHJhY3RvcnNxAH4CgHNxAH4CTHQADENvbnRlbnRUeXBlc3NxAH4CUnNxAH4CVXVxAH4CWAAAAARzcQB+Alp0AARwbGF5c3EAfgJacQB+AoZzcQB+Alp0AARodHRwcQB+AmFzcQB+Akx0AAtIZWFkZXJOYW1lc3EAfgKZc3EAfgJMdAAGU3RhdHVzcQB+AplzcQB+Akx0AAxIdHRwUHJvdG9jb2xxAH4CmXNxAH4CTHQAB1Jlc3VsdHNxAH4CgHNxAH4CTHQABk9iamVjdHNxAH4CUnNxAH4CVXVxAH4CWAAAAANzcQB+Alp0AARqYXZhc3EAfgJadAAEbGFuZ3EAfgJhc3EAfgJMdAADQW55c3EAfgJSc3EAfgJVdXEAfgJYAAAAAnNxAH4CWnQABXNjYWxhcQB+AmF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOT9IA8BjnqKl6hMo+oZ/d/SAbZ1
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqdrREgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCswPfWdAANZmlsZU1pbWVUeXBlc3NxAH4AC+4phxp0AA9yZXF1ZXN0MnNlc3Npb25zcQB+AAv/+D5jdAALbWVzc2FnZXNBcGlzcQB+AAvwobFGdAAOc3VwcG9ydGVkTGFuZ3NzcQB+AAtL6I6jdAANcmVxdWVzdDJmbGFzaHVxAH4ACQAAAQpzcQB+AAtm1HZsdAAMUmVzZXRDb250ZW50c3EAfgAL1iTh4XQADU5vdEFjY2VwdGFibGVzcQB+AAuFQUtAdAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAsgzCEGdAAIc2VuZEZpbGVzcQB+AAuc78iVdAAIbmV3Rmxhc2hzcQB+AAtKyNs3dAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALvXXCv3QABkxvY2tlZHNxAH4AC/sc/wh0AAZub3RpZnlzcQB+AAtg1BIrdAAERlJPTXNxAH4AC0XxmS10ABBDT05URU5UX0xBTkdVQUdFc3EAfgAL52y4anQAB0NSRUFURURzcQB+AAu0hKuCdAAHdW5hcHBseXNxAH4AC7mfaX90ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALjQbFlnQAB1dBUk5JTkdzcQB+AAtT71ypdAAPUGF5bWVudFJlcXVpcmVkc3EAfgAL82rYPXQACENPTlRJTlVFc3EAfgAL6J2DHnQABGJvZHlzcQB+AAs+4ZtZdAAFWEhUTUxzcQB+AAuppvVVdAALU0VUX0NPT0tJRTJzcQB+AAuCHABsdAAISFRUUF8xXzFzcQB+AAug1MnkdAAVYmFrZUNvb2tpZXMkZGVmYXVsdCQyc3EAfgAL6OPDo3QAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAsvfe5/dAAMQ09OVEVOVF9UWVBFc3EAfgALTcguXnQABkJJTkFSWXNxAH4ACx0Z6Ld0AAR3YWl0c3EAfgALvCeEUnQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAsqDEL8dAAKQmFkR2F0ZXdheXNxAH4ACwvY9eZ0ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALu8n1WXQADlRvb01hbnlSZXF1ZXN0c3EAfgALjlFnF3QAClVTRVJfQUdFTlRzcQB+AAuy+xcqdAAWc2VuZFJlc291cmNlJGRlZmF1bHQkMnNxAH4AC8SHCx50AARIT1NUc3EAfgALoRtrlnQAC0NPTlRFTlRfTUQ1c3EAfgALfOnSyXQADmNvcHkkZGVmYXVsdCQyc3EAfgALuyZM/nQAB0NyZWF0ZWRzcQB+AAvBV1oHdAANJGFzSW5zdGFuY2VPZnNxAH4ACxXy4Nd0ABBYX0ZPUldBUkRFRF9QT1JUc3EAfgALdvaoEXQAElN3aXRjaGluZ1Byb3RvY29sc3NxAH4AC99qoYR0AApKYXZhU2NyaXB0c3EAfgALuwwCeHQAC0JBRF9SRVFVRVNUc3EAfgALH1VkenQADk5vdEltcGxlbWVudGVkc3EAfgALHjFddXQADE1BWF9GT1JXQVJEU3NxAH4ACwZSact0AA5jb3B5JGRlZmF1bHQkNXNxAH4AC4/Zf+p0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALyHA5mHQAA0NTU3NxAH4AC+aFsKd0AAhTZWVPdGhlcnNxAH4AC4/oYWF0AAdUUkFJTEVSc3EAfgALzgI4bnQAElBST1hZX0FVVEhFTlRJQ0FURXNxAH4AC3q9h310AA1BVVRIT1JJWkFUSU9Oc3EAfgALt+5usHQAA1hNTHNxAH4AC5NtrZd0AA1DQUNIRV9DT05UUk9Mc3EAfgALNmP8gnQAFWJha2VDb29raWVzJGRlZmF1bHQkMXNxAH4AC4J2lxR0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAt7AxymdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALUeyqk3QADHByb2R1Y3RBcml0eXNxAH4AC6mTibh0AAZlcXVhbHNzcQB+AAvweTWSdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC/6pizx0AAhBY2NlcHRlZHNxAH4AC75rdBJ0AAtSRVRSWV9BRlRFUnNxAH4AC/OBEvV0ABJSZWRpcmVjdCRkZWZhdWx0JDJzcQB+AAtg/4uHdAAESlNPTnNxAH4ACxuJ53d0AAhSZWRpcmVjdHNxAH4AC+nJFcZ0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgALroxbJnQADlBhcnRpYWxDb250ZW50c3EAfgALXyJVL3QAFFVuc3VwcG9ydGVkTWVkaWFUeXBlc3EAfgALZDy6lHQACENPTkZMSUNUc3EAfgALUjgBA3QAEnNlbmRGaWxlJGRlZmF1bHQkMnNxAH4AC31Ce0h0AA5BQ0NFUFRfQ0hBUlNFVHNxAH4AC5Z8juN0ABFQZXJtYW5lbnRSZWRpcmVjdHNxAH4ACxqcrFt0AApuZXdDb29raWVzc3EAfgAL2Sz7XHQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALpoXO8nQAA1ZJQXNxAH4AC2GwTFF0AAxhc0luc3RhbmNlT2ZzcQB+AAsSBlMNdAAPUkVRVUVTVF9USU1FT1VUc3EAfgALHdG2y3QAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAt/heVHdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAvq2049dAACVEVzcQB+AAsCd130dAAOR2F0ZXdheVRpbWVvdXRzcQB+AAuwRJ/tdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4ACyXP7v90AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAsxRcYtdAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4AC/zk2750ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4ACz3VZa90AAxFVkVOVF9TVFJFQU1zcQB+AAuCPBpqdAAMc3luY2hyb25pemVkc3EAfgALm5bw0XQAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAtsvOECdAAERVRBR3NxAH4AC08bAQ10AA9MRU5HVEhfUkVRVUlSRURzcQB+AAsDOnp2dAAOd2l0aE5ld1Nlc3Npb25zcQB+AAuwqD0YdAAKSkFWQVNDUklQVHNxAH4AC7R1vMx0AA5FbnRpdHlUb29MYXJnZXNxAH4AC3ZXVJZ0AAxVTkFVVEhPUklaRURzcQB+AAtW9FHmdAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgALBxF1sXQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAsmDxmCdAAXZGVmYXVsdEV4ZWN1dGlvbkNvbnRleHRzcQB+AAuE/fUadAANJGlzSW5zdGFuY2VPZnNxAH4ACxpaNgV0AAdSRUZFUkVSc3EAfgAL+EVmSHQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC92+8ot0AAZPUklHSU5zcQB+AAtsBrdkdAALd2l0aENvb2tpZXNzcQB+AAumxEGEdAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALCzq9tnQADE5PVF9NT0RJRklFRHNxAH4AC/qFIid0AAJhc3NxAH4ACwINu/p0ABRjb250cm9sbGVyQ29tcG9uZW50c3NxAH4AC8U8PSR0AAt3aXRoU2Vzc2lvbnNxAH4ACzL4VuB0ABViYWtlQ29va2llcyRkZWZhdWx0JDNzcQB+AAtV1WO3dAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAuH8V2LdAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALu/1Z+HQAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC0gTSsJ0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALtPKnnXQACUltQVRlYXBvdHNxAH4AC7Ky/hN0AAhjYW5FcXVhbHNxAH4ACwfGPo50AAhOb3RGb3VuZHNxAH4AC1Zz9q10AAhJRl9SQU5HRXNxAH4AC17VBZV0ABJzZW5kRmlsZSRkZWZhdWx0JDRzcQB+AAtYEz4edAAOY29weSRkZWZhdWx0JDRzcQB+AAsiU1/VdAAIZmxhc2hpbmdzcQB+AAuPgPBLdAAERk9STXNxAH4AC07zByB0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgAL4dbRHXQAE1NXSVRDSElOR19QUk9UT0NPTFNzcQB+AAvHgnccdAASVEVNUE9SQVJZX1JFRElSRUNUc3EAfgALGWITs3QADXByb2R1Y3RQcmVmaXhzcQB+AAuSF4//dAAOQ09OVEVOVF9MRU5HVEhzcQB+AAuMO4QBdAALSU1fQV9URUFQT1RzcQB+AAsF/c6OdAAKU0VUX0NPT0tJRXNxAH4AC0xNoax0AAlub3RpZnlBbGxzcQB+AAvD1PltdAADQUdFc3EAfgALqUBDWnQAC0JBRF9HQVRFV0FZc3EAfgALpiSNZ3QAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4ACzEdk7R0AApDT05ORUNUSU9Oc3EAfgALiqTorXQACUZPUldBUkRFRHNxAH4AC+NFzFZ0AAJPa3NxAH4AC97/E+l0AAxpc0luc3RhbmNlT2ZzcQB+AAsgiD95dAAQTW92ZWRQZXJtYW5lbnRseXNxAH4AC4dXMY50AAJPS3NxAH4ACwx7YUJ0AAZhc0phdmFzcQB+AAtDwAGCdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAtgrYLOdAAETElOS3NxAH4ACzTn00l0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgALzuX+4XQACm5ld1Nlc3Npb25zcQB+AAutDfhDdAAZU1RSSUNUX1RSQU5TUE9SVF9TRUNVUklUWXNxAH4AC3uYIKx0AA5DQUNIRV9NQU5JRkVTVHNxAH4AC5w4XLx0AAlGb3JiaWRkZW5zcQB+AAvndK2LdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAt2petIdAAEVEVYVHNxAH4AC7rpg5x0AApCYWRSZXF1ZXN0c3EAfgALmlk7knQABUZPVU5Ec3EAfgALpsLvqnQABjxpbml0PnNxAH4AC9MtBFx0AAtOb3RNb2RpZmllZHNxAH4AC8odAHp0AAREQVRFc3EAfgALpt1S3XQABWFzeW5jc3EAfgALWZMBU3QADUNPTlRFTlRfUkFOR0VzcQB+AAscL7lAdAAEJGFtcHNxAH4AC16WXhp0AAxzZW5kUmVzb3VyY2VzcQB+AAux2+P4dAAHY2h1bmtlZHNxAH4AC8uCHBF0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4ACz/tn9h0ABJQRVJNQU5FTlRfUkVESVJFQ1RzcQB+AAubH1Z6dAAFYXBwbHlzcQB+AAv6eOV2dAAOSG9tZUNvbnRyb2xsZXJzcQB+AAteLcAvdAARVE9PX01BTllfUkVRVUVTVFNzcQB+AAv1VjXtdAAFcGFyc2VzcQB+AAvdiCwqdAATUFJPWFlfQVVUSE9SSVpBVElPTnNxAH4ACyz46w10AAI9PXNxAH4AC+S4fyB0AARHT05Fc3EAfgALoN8gUHQABEdvbmVzcQB+AAuD3y2WdAAgQUNDRVNTX0NPTlRST0xfQUxMT1dfQ1JFREVOVElBTFNzcQB+AAswQNS2dAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAumjLWUdAAFY2xvbmVzcQB+AAtKrV60dAAGRVhQRUNUc3EAfgALa5+S4XQAFnNlbmRSZXNvdXJjZSRkZWZhdWx0JDNzcQB+AAs80BkadAASU2VydmljZVVuYXZhaWxhYmxlc3EAfgAL0GMYf3QACExPQ0FUSU9Oc3EAfgALXuuFJHQAEnNlbmRQYXRoJGRlZmF1bHQkNHNxAH4AC6EALQd0AARWQVJZc3EAfgALQ/ZbZnQAEFdXV19BVVRIRU5USUNBVEVzcQB+AAujd3EidAAEVE9ET3NxAH4AC6gv2I10AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAt6izA3dAAGJGluaXQkc3EAfgALsW4WHXQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC1fvsmh0AAhBQ0NFUFRFRHNxAH4AC1A3fYt0AARIdG1sc3EAfgALxOIBY3QACk5PX0NPTlRFTlRzcQB+AAv8xYA6dAAISFRUUF8xXzBzcQB+AAsFZt7XdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgALlZG2YnQAFWJha2VDb29raWVzJGRlZmF1bHQkNHNxAH4AC1ofsaZ0AAdVUEdSQURFc3EAfgAL725++nQAC2Jha2VDb29raWVzc3EAfgALEmkg9HQACU5PVF9GT1VORHNxAH4ACwGrTEV0AAdzZXNzaW9uc3EAfgAL+83Up3QAD0FDQ0VQVF9FTkNPRElOR3NxAH4ACw95YmR0ABNJbnRlcm5hbFNlcnZlckVycm9yc3EAfgAL82nLIHQAB0VYUElSRVNzcQB+AAuKg+OsdAAOY29weSRkZWZhdWx0JDNzcQB+AAv/gx3EdAAEY29weXNxAH4AC+vuq4N0AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgALsbCncnQABmhlYWRlcnNxAH4AC5ggF/R0ABBVUEdSQURFX1JFUVVJUkVEc3EAfgALCrDSHXQAD1Rvb01hbnlSZXF1ZXN0c3NxAH4AC2eZYxN0AAh0b1N0cmluZ3NxAH4ACxCOP2R0AAxVbmF1dGhvcml6ZWRzcQB+AAsYafHKdAAOUmVxdWVzdFRpbWVvdXRzcQB+AAu5Zqk/dAAGQUNDRVBUc3EAfgAL1l0AQHQAClVyaVRvb0xvbmdzcQB+AAvGT3FZdAAPR0FURVdBWV9USU1FT1VUc3EAfgAL+eXChnQAC011bHRpU3RhdHVzc3EAfgALR6OflnQABlNFUlZFUnNxAH4AC24cWgh0AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4ACwiW2wp0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4AC/t2s7B0ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgALog1o9XQACHNlbmRQYXRoc3EAfgALr6wP8XQACnNlbmRFbnRpdHlzcQB+AAsQ4inkdAACIT1zcQB+AAvEU33gdAANTEFTVF9NT0RJRklFRHNxAH4AC49p4Kh0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4ACw6PFtx0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAvq5vQZdAALd2l0aENoYXJzZXRzcQB+AAvw8CRCdAAIQ29uZmxpY3RzcQB+AAu1QhBldAAFQUxMT1dzcQB+AAtj+hJ8dAAGQ09PS0lFc3EAfgALQLZz4nQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgALjo8+jHQACGdldENsYXNzc3EAfgALuEFbvXQAA1htbHNxAH4ACzmnxxR0ABlDT05URU5UX1RSQU5TRkVSX0VOQ09ESU5Hc3EAfgALhZo7tHQADmNvcHkkZGVmYXVsdCQxc3EAfgALzJyrJHQABEhUTUxzcQB+AAsCWvdGdAAFRm91bmRzcQB+AAsoNVZxdAAdTk9OX0FVVEhPUklUQVRJVkVfSU5GT1JNQVRJT05zcQB+AAvZlu83dAAGcmVuZGVyc3EAfgALV/l9K3QABlBSQUdNQXNxAH4ACwIq8e50AAhJRl9NQVRDSHNxAH4AC+L2i+h0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4ACwiXXSt0AA1SRVNFVF9DT05URU5Uc3EAfgALOUD6W3QACVNFRV9PVEhFUnNxAH4AC/z6ArZ0ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC5jxhqt0AAJuZXNxAH4ACyc0QGF0ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALmzINzHQAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAtJqa5VdAAFUkFOR0VzcQB+AAt8jnmtdAAPd2l0aERhdGVIZWFkZXJzc3EAfgAL3b/563QACVVTRV9QUk9YWXNxAH4AC09hAMl0AAdBY2NlcHRzc3EAfgALc62ypXQAB0NIVU5LRURzcQB+AAsAbwkZdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAtsUHhCdAASUmVkaXJlY3QkZGVmYXVsdCQzc3EAfgALW4iF/nQABkxPQ0tFRHNxAH4AC79CIQF0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAuByWUFdAAGQWN0aW9uc3EAfgALyUWytHQABEpzb25zcQB+AAuTPOfadAAJRk9SQklEREVOc3EAfgALlNmmZXQAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC5DNWP50AAJlcXNxAH4AC8FEHM10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvqVcUNdAANSUZfTk9ORV9NQVRDSHNxAH4AC/LIwmF0AA1BQ0NFUFRfUkFOR0VTc3EAfgALvRIbUXQACU5vQ29udGVudHNxAH4AC1DPoER0ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgALWBK0LHQAEVhfRk9SV0FSREVEX1BST1RPc3EAfgALLWZGFHQACENvbnRpbnVlc3EAfgALYzSATXQADE1VTFRJX1NUQVRVU3NxAH4AC3lb/XF0AAIjI3NxAH4AC7RBMeh0AAhmaW5hbGl6ZXNxAH4AC84rULR0ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgALH1qWlXQABWluZGV4c3EAfgALU84YVnQADnByb2R1Y3RFbGVtZW50c3EAfgALq4qo/HQACGhhc2hDb2Rlc3EAfgALwEWhV3QABlN0YXR1c3NxAH4ACzFKZKV0AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AjV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0AAIoKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAlTaW5nbGV0b25zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+Ak5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWphdmF4c3EAfgJadAAGaW5qZWN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AltzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABpjb250cm9sbGVycy5Ib21lQ29udHJvbGxlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAE2phdmF4LmluamVjdC5JbmplY3R0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4CTnNxAH4Cb3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgI1TAAJaW5oZXJpdGVkcQB+AjVMAAdwYXJlbnRzcQB+AjV4cQB+Ak9zcQB+Am91cQB+AjAAAAAAc3EAfgJvdXEAfgIwAAAAAHNxAH4Cb3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAPc3EAfgJMdAASQWJzdHJhY3RDb250cm9sbGVyc3EAfgJSc3EAfgJVdXEAfgJYAAAABHNxAH4CWnQABHBsYXlzcQB+Alp0AANhcGlzcQB+Alp0AANtdmNxAH4CYXNxAH4CTHQADkJhc2VDb250cm9sbGVycQB+AoBzcQB+Akx0ABVCYXNlQ29udHJvbGxlckhlbHBlcnNxAH4CgHNxAH4CTHQAEUNvbnRyb2xsZXJIZWxwZXJzcQB+AoBzcQB+Akx0ABBSZXF1ZXN0SW1wbGljaXRzcQB+AoBzcQB+Akx0AAlSZW5kZXJpbmdxAH4CgHNxAH4CTHQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AoBzcQB+Akx0ABBBY2NlcHRFeHRyYWN0b3JzcQB+AoBzcQB+Akx0AAxDb250ZW50VHlwZXNzcQB+AlJzcQB+AlV1cQB+AlgAAAAEc3EAfgJadAAEcGxheXNxAH4CWnEAfgKGc3EAfgJadAAEaHR0cHEAfgJhc3EAfgJMdAALSGVhZGVyTmFtZXNxAH4CmXNxAH4CTHQABlN0YXR1c3EAfgKZc3EAfgJMdAAMSHR0cFByb3RvY29scQB+AplzcQB+Akx0AAdSZXN1bHRzcQB+AoBzcQB+Akx0AAZPYmplY3RzcQB+AlJzcQB+AlV1cQB+AlgAAAADc3EAfgJadAAEamF2YXNxAH4CWnQABGxhbmdxAH4CYXNxAH4CTHQAA0FueXNxAH4CUnNxAH4CVXVxAH4CWAAAAAJzcQB+Alp0AAVzY2FsYXEAfgJhdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFaJH+5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAMUQ6XGRldlxpZGVhd29ya3NcTWFya2V0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTP11hC715mWvaWh/6PPxvp3FDo9Q==
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+erVrwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDTVYdEdAADbWF0dXEAfgAJAAAAGHNxAH4AC7qAQst0AAZub3RpZnlzcQB+AAshTTS5dAAEd2FpdHNxAH4AC2T0+xB0AA0kYXNJbnN0YW5jZU9mc3EAfgALp5oKk3QABmVxdWFsc3NxAH4ACyqpvkd0AAxhc0luc3RhbmNlT2ZzcQB+AAvIusLYdAANRXhhbXBsZUZpbHRlcnNxAH4AC45qvpp0AAxzeW5jaHJvbml6ZWRzcQB+AAvEo3usdAANJGlzSW5zdGFuY2VPZnNxAH4ACytFbyJ0AAlub3RpZnlBbGxzcQB+AAta4DZTdAAMaXNJbnN0YW5jZU9mc3EAfgALvyl/e3QABmFzSmF2YXNxAH4AC1AJDE90AAY8aW5pdD5zcQB+AAsErbpddAAFYXBwbHlzcQB+AAvNcoHZdAACPT1zcQB+AAv5VGdRdAAFY2xvbmVzcQB+AAsC7WG2dAAGJGluaXQkc3EAfgALjZDObHQACHRvU3RyaW5nc3EAfgALhWy/yHQAAiE9c3EAfgALQ5JjG3QACGdldENsYXNzc3EAfgAL8zmnenQAAm5lc3EAfgALGHoYEnQAAmVxc3EAfgALCk7OiXQAAiMjc3EAfgALe9JAVXQACGZpbmFsaXplc3EAfgALle1Vu3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAAigpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQACVNpbmdsZXRvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFamF2YXhzcQB+AG50AAZpbmplY3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ab3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFWZpbHRlcnMuRXhhbXBsZUZpbHRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAE2phdmF4LmluamVjdC5JbmplY3R0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AYnNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGNzcQB+AIN1cQB+AEQAAAAAc3EAfgCDdXEAfgBEAAAAAHNxAH4Ag3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3EAfgBgdAAGRmlsdGVyc3EAfgBmc3EAfgBpdXEAfgBsAAAABHNxAH4AbnQABHBsYXlzcQB+AG50AANhcGlzcQB+AG50AANtdmNxAH4AdXNxAH4AYHQAD0Vzc2VudGlhbEZpbHRlcnEAfgCUc3EAfgBgdAAGT2JqZWN0c3EAfgBmc3EAfgBpdXEAfgBsAAAAA3NxAH4AbnQABGphdmFzcQB+AG50AARsYW5ncQB+AHVzcQB+AGB0AANBbnlzcQB+AGZzcQB+AGl1cQB+AGwAAAACc3EAfgBudAAFc2NhbGFxAH4AdXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAB2ZpbHRlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFaJH+5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAMUQ6XGRldlxpZGVhd29ya3NcTWFya2V0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSBVblVP6jnQouJwJKZMF/77WjSvA==
+D:\dev\ideaworks\Market\app\Module.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhD+xGwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwW8y0anQABm5vdGlmeXNxAH4ADF9/eKF0AAxiaW5kTGlzdGVuZXJzcQB+AAxwO8CxdAAEd2FpdHNxAH4ADK6s+GJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLDNk/XQAFnJlcXVlc3RTdGF0aWNJbmplY3Rpb25zcQB+AAzdjxN8dAAOcmVxdWlyZUJpbmRpbmdzcQB+AAwt520pdAAGYmluZGVyc3EAfgAMpdJd4HQABmVxdWFsc3NxAH4ADMyWObd0AAtnZXRQcm92aWRlcnNxAH4ADNsT8fp0AAxhc0luc3RhbmNlT2ZzcQB+AAzmglzIdAAJYmluZFNjb3Blc3EAfgAMf6V4HXQADHN5bmNocm9uaXplZHNxAH4ADN5p0NB0AARiaW5kc3EAfgAM/cgNLHQADSRpc0luc3RhbmNlT2ZzcQB+AAxdDXpWdAAJY29uZmlndXJlc3EAfgAMn9UvhXQAEHJlcXVlc3RJbmplY3Rpb25zcQB+AAywHrRhdAAJbm90aWZ5QWxsc3EAfgAMniaIXnQACGFkZEVycm9yc3EAfgAMYjs24nQADGlzSW5zdGFuY2VPZnNxAH4ADOp2NP10AA9iaW5kSW50ZXJjZXB0b3JzcQB+AAzRRLRrdAAGPGluaXQ+c3EAfgAMklECInQAEmdldE1lbWJlcnNJbmplY3RvcnNxAH4ADPKaILh0AAI9PXNxAH4ADHdrDd50AAVjbG9uZXNxAH4ADMBjIWV0AAxiaW5kQ29uc3RhbnRzcQB+AAwGSXEkdAAIdG9TdHJpbmdzcQB+AAya5ApMdAACIT1zcQB+AAwMqo7tdAAIZ2V0Q2xhc3NzcQB+AAwl1YNbdAAHaW5zdGFsbHNxAH4ADMbBE1N0AAxjdXJyZW50U3RhZ2VzcQB+AAycjMsudAACbmVzcQB+AAza8dpadAACZXFzcQB+AAw4pNdPdAAGTW9kdWxlc3EAfgAMBp6Xr3QADmNvbnZlcnRUb1R5cGVzc3EAfgAMLDrUUnQAAiMjc3EAfgAMOjbOqHQACGZpbmFsaXplc3EAfgAM+S5h63QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgB+c3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AXAAAAABzcQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AA5BYnN0cmFjdE1vZHVsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADY29tc3EAfgCWdAAGZ29vZ2xlc3EAfgCWdAAGaW5qZWN0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AIp0AAZNb2R1bGVxAH4AkHNxAH4AinQABk9iamVjdHNxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZ0AARqYXZhc3EAfgCWdAAEbGFuZ3EAfgCfc3EAfgCKdAADQW55c3EAfgCOc3EAfgCRdXEAfgCUAAAAAnNxAH4AlnQABXNjYWxhcQB+AJ91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ5x0Mwde/S6w8SLmwcgQpGC9I0v
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcQw4ngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+5TACHQABm5vdGlmeXNxAH4ADEMFptB0AAR3YWl0c3EAfgAM11PXRXQADSRhc0luc3RhbmNlT2ZzcQB+AAxeC/BYdAAGZXF1YWxzc3EAfgAMxmRqRHQADGFzSW5zdGFuY2VPZnNxAH4ADL1XgE10AAxzeW5jaHJvbml6ZWRzcQB+AAwwZaLVdAAQQXBwbGljYXRpb25UaW1lcnNxAH4ADAf6spZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMvWt4tHQACW5vdGlmeUFsbHNxAH4ADJrOBAp0AAxpc0luc3RhbmNlT2ZzcQB+AAzRQOYudAAGPGluaXQ+c3EAfgAMBbDo83QAAj09c3EAfgAMd94aBnQABWNsb25lc3EAfgAMpYL333QACHRvU3RyaW5nc3EAfgAMt/0GfnQAAiE9c3EAfgAM4wOruHQACGdldENsYXNzc3EAfgAMJD3pFHQAAm5lc3EAfgAMhdltUXQAAmVxc3EAfgAMLKkAo3QAAiMjc3EAfgAM14eJuXQACGZpbmFsaXplc3EAfgAMjrYVhHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2V0ABBMeHNidGkvYXBpL1R5cGU7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAAigpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQACVNpbmdsZXRvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFamF2YXhzcQB+AGZ0AAZpbmplY3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AZ3NyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGXNlcnZpY2VzLkFwcGxpY2F0aW9uVGltZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABNqYXZheC5pbmplY3QuSW5qZWN0dAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AFpzcQB+AHtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBbc3EAfgB7dXEAfgA8AAAAAHNxAH4Ae3VxAH4APAAAAABzcQB+AHt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AWHQABk9iamVjdHNxAH4AXnNxAH4AYXVxAH4AZAAAAANzcQB+AGZ0AARqYXZhc3EAfgBmdAAEbGFuZ3EAfgBtc3EAfgBYdAADQW55c3EAfgBec3EAfgBhdXEAfgBkAAAAAnNxAH4AZnQABXNjYWxhcQB+AG11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhzZXJ2aWNlc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIDQ67j2Z21s3mUIXsd/uZ9Icoyb
+D:\dev\ideaworks\Market\app\services\Counter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHe40UgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvn6Zu3QABm5vdGlmeXNxAH4ADEEGUmt0AAluZXh0Q291bnRzcQB+AAymR/71dAAEd2FpdHNxAH4ADKMcyEp0AA0kYXNJbnN0YW5jZU9mc3EAfgAM/2gMnXQABmVxdWFsc3NxAH4ADJwwYUF0AA1BdG9taWNDb3VudGVyc3EAfgAMPAlIbXQADGFzSW5zdGFuY2VPZnNxAH4ADJIunGx0AAxzeW5jaHJvbml6ZWRzcQB+AAyn2vN3dAANJGlzSW5zdGFuY2VPZnNxAH4ADAEa3bp0AAlub3RpZnlBbGxzcQB+AAz4FgKWdAAMaXNJbnN0YW5jZU9mc3EAfgAMWPoFDHQABjxpbml0PnNxAH4ADGdRae10AAI9PXNxAH4ADCh6G850AAVjbG9uZXNxAH4ADFOyteB0AAh0b1N0cmluZ3NxAH4ADPpwv6h0AAIhPXNxAH4ADDB8zsh0AAhnZXRDbGFzc3NxAH4ADFnS+OF0AAdDb3VudGVyc3EAfgAMKvMOpnQAAm5lc3EAfgAME+aJlnQAAmVxc3EAfgAMG5ZgynQAAiMjc3EAfgAMugX+fXQACGZpbmFsaXplc3EAfgAM9M4oh3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAEHNlcnZpY2VzLkNvdW50ZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGNzcQB+AF51cQB+AEAAAAAAc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ae3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHNxAH4Ab3QAA0FueXNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AAVzY2FsYXEAfgCCc3EAfgBCcQB+AE91cQB+AFAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAACKClzcQB+AG90AAlTaW5nbGV0b25zcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAFamF2YXhzcQB+AHt0AAZpbmplY3RxAH4AgnNxAH4AUgB0ABZzZXJ2aWNlcy5BdG9taWNDb3VudGVydXEAfgBVAAAAAH5xAH4AV3QACENsYXNzRGVmdXEAfgBbAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AXnEAfgBkc3EAfgBec3EAfgBmc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVxAH4AQAAAAABzcQB+AF51cQB+AG0AAAADc3EAfgBvdAAHQ291bnRlcnNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AAhzZXJ2aWNlc3EAfgCCc3EAfgBvcQB+AHJzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AH5zcQB+AHtxAH4AgHEAfgCCc3EAfgBvcQB+AIRzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AIlxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACHNlcnZpY2Vzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhWiR/uXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADFEOlxkZXZcaWRlYXdvcmtzXE1hcmtldFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCccEIwjjrvycLlkFqVwOVmRharc=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2bcLUQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAFys0nQABm5vdGlmeXNxAH4ADK5ke450AAVjb3VudHNxAH4ADJEJAq50AA5fZGVmYXVsdFByZWZpeHNxAH4ADF9pOqp0AAR3YWl0c3EAfgAMSg7J33QADSRhc0luc3RhbmNlT2ZzcQB+AAxIoHpCdAAGZXF1YWxzc3EAfgAMR81Z1HQADGFzSW5zdGFuY2VPZnNxAH4ADADQeNF0AAxzeW5jaHJvbml6ZWRzcQB+AAxN/k/HdAAVUmV2ZXJzZUhvbWVDb250cm9sbGVyc3EAfgAM/h8BYXQADSRpc0luc3RhbmNlT2ZzcQB+AAxbV7o7dAAWUmV2ZXJzZUNvdW50Q29udHJvbGxlcnNxAH4ADHSdBVt0AA1SZXZlcnNlQXNzZXRzc3EAfgAMz7HVqHQAFlJldmVyc2VBc3luY0NvbnRyb2xsZXJzcQB+AAxSSRZndAAJbm90aWZ5QWxsc3EAfgAMPnWYPXQADGlzSW5zdGFuY2VPZnNxAH4ADC0AliB0AAY8aW5pdD5zcQB+AAz2QpZ4dAACPT1zcQB+AAwmlDMrdAAFY2xvbmVzcQB+AAyW+u91dAAHbWVzc2FnZXNxAH4ADOWfGiF0AAh0b1N0cmluZ3NxAH4ADPRgeYN0AAIhPXNxAH4ADKLDOop0AAhnZXRDbGFzc3NxAH4ADG4+AWl0AAJuZXNxAH4ADLH8WTN0AAl2ZXJzaW9uZWRzcQB+AAxbRmL7dAACZXFzcQB+AAzxztKPdAACIyNzcQB+AAyy1KWbdAAIZmluYWxpemVzcQB+AAwaFuSudAAFaW5kZXhzcQB+AAySQNb+dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAtY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXN5bmNDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBvc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4ATAAAAABzcQB+AGp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0ACxjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VIb21lQ29udHJvbGxlcnVxAH4AYQAAAABxAH4AZXVxAH4AZwAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AGpxAH4AcHNxAH4AanNxAH4AcnNxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AEwAAAAAc3EAfgBqdXEAfgB5AAAAAnNxAH4Ae3EAfgB+c3EAfgB/c3EAfgCCdXEAfgCFAAAAA3NxAH4Ah3EAfgCKc3EAfgCHcQB+AIxxAH4AjnNxAH4Ae3EAfgCQc3EAfgB/c3EAfgCCdXEAfgCFAAAAAnNxAH4Ah3EAfgCVcQB+AI5zcQB+AE5xAH4AW3VxAH4AXAAAAABzcQB+AF4AdAAkY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXNzZXRzdXEAfgBhAAAAAHEAfgBldXEAfgBnAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AanEAfgBwc3EAfgBqc3EAfgByc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AHkAAAACc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHcQB+AIpzcQB+AIdxAH4AjHEAfgCOc3EAfgB7cQB+AJBzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHcQB+AJVxAH4AjnNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0AC1jb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VDb3VudENvbnRyb2xsZXJ1cQB+AGEAAAAAcQB+AGV1cQB+AGcAAAABdAAMc2NhbGEubmF0aXZlc3EAfgBqcQB+AHBzcQB+AGpzcQB+AHJzcQB+AGp1cQB+AEwAAAAAc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4AeQAAAAJzcQB+AHtxAH4AfnNxAH4Af3NxAH4AgnVxAH4AhQAAAANzcQB+AIdxAH4AinNxAH4Ah3EAfgCMcQB+AI5zcQB+AHtxAH4AkHNxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AIdxAH4AlXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4A6XQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhWiR/uXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADFEOlxkZXZcaWRlYXdvcmtzXE1hcmtldFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJFM8HZCYlZhJihlA1PmfWAcBB/E=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2XcJFgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFJkeZHQABm5vdGlmeXNxAH4ADD6NQih0AAVjb3VudHNxAH4ADFNNkyZ0AA5fZGVmYXVsdFByZWZpeHNxAH4ADAsdp4h0AAR3YWl0c3EAfgAM8Mq9v3QADSRhc0luc3RhbmNlT2ZzcQB+AAyDv2TJdAAGZXF1YWxzc3EAfgAMkOIH0HQADGFzSW5zdGFuY2VPZnNxAH4ADONyCkd0AAxzeW5jaHJvbml6ZWRzcQB+AAwrvv31dAAVUmV2ZXJzZUhvbWVDb250cm9sbGVyc3EAfgAM3BBvt3QADSRpc0luc3RhbmNlT2ZzcQB+AAw4DWzudAAWUmV2ZXJzZUNvdW50Q29udHJvbGxlcnNxAH4ADFCG/gl0AA1SZXZlcnNlQXNzZXRzc3EAfgAMCHNTH3QAFlJldmVyc2VBc3luY0NvbnRyb2xsZXJzcQB+AAwv62tpdAAJbm90aWZ5QWxsc3EAfgAMSicn1XQADGlzSW5zdGFuY2VPZnNxAH4ADKNeDTp0AAY8aW5pdD5zcQB+AAwHes1IdAACPT1zcQB+AAz2sZFndAAFY2xvbmVzcQB+AAyB852jdAAHbWVzc2FnZXNxAH4ADJ8Bc5x0AAh0b1N0cmluZ3NxAH4ADEMpMJp0AAIhPXNxAH4ADCCn1Z90AAhnZXRDbGFzc3NxAH4ADEcCE010AAJuZXNxAH4ADKe0cVB0AAl2ZXJzaW9uZWRzcQB+AAwKRxxNdAACZXFzcQB+AAxav5dedAACIyNzcQB+AAwnN47FdAAIZmluYWxpemVzcQB+AAyHZxEFdAAFaW5kZXhzcQB+AAxE6OdndAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAiY29udHJvbGxlcnMuUmV2ZXJzZUFzeW5jQ29udHJvbGxlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4Ab3NxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AEwAAAAAc3EAfgBqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBudAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCHdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIc3EAfgB7dAADQW55c3EAfgB/c3EAfgCCdXEAfgCFAAAAAnNxAH4Ah3QABXNjYWxhcQB+AI5zcQB+AE5xAH4AW3VxAH4AXAAAAABzcQB+AF4AdAAhY29udHJvbGxlcnMuUmV2ZXJzZUhvbWVDb250cm9sbGVydXEAfgBhAAAAAHEAfgBldXEAfgBnAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AanEAfgBwc3EAfgBqc3EAfgByc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AHkAAAACc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHcQB+AIpzcQB+AIdxAH4AjHEAfgCOc3EAfgB7cQB+AJBzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHcQB+AJVxAH4AjnNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXEAfgBhAAAAAHEAfgBldXEAfgBnAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AanEAfgBwc3EAfgBqc3EAfgByc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AHkAAAACc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHcQB+AIpzcQB+AIdxAH4AjHEAfgCOc3EAfgB7cQB+AJBzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHcQB+AJVxAH4AjnNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0ACJjb250cm9sbGVycy5SZXZlcnNlQ291bnRDb250cm9sbGVydXEAfgBhAAAAAHEAfgBldXEAfgBnAAAAAXQADHNjYWxhLm5hdGl2ZXNxAH4AanEAfgBwc3EAfgBqc3EAfgByc3EAfgBqdXEAfgBMAAAAAHNxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AHkAAAACc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHcQB+AIpzcQB+AIdxAH4AjHEAfgCOc3EAfgB7cQB+AJBzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHcQB+AJVxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhWiR/uXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADFEOlxkZXZcaWRlYXdvcmtzXE1hcmtldFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyO526HoPFhnfnoY8+/BmHDc1XHU=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/aOtIwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAOc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYQyw3QABm5vdGlmeXNxAH4ADCIhT+10AAZBc3NldHNzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAMAXAkJHQAD0NvdW50Q29udHJvbGxlcnNxAH4ADNzwkR50ABFyb3V0ZXMkamF2YXNjcmlwdHNxAH4ADH5hOHh0AAlub3RpZnlBbGxzcQB+AAzRnyHkdAAGPGluaXQ+c3EAfgAMlc9t1nQADkhvbWVDb250cm9sbGVyc3EAfgAMGIa4JnQAD0FzeW5jQ29udHJvbGxlcnNxAH4ADFWqzvh0AAh0b1N0cmluZ3NxAH4ADCELfHB0AAhnZXRDbGFzc3NxAH4ADB7n6jZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ADN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJjb250cm9sbGVycy5yb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ATHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAzTAAJaW5oZXJpdGVkcQB+ADNMAAdwYXJlbnRzcQB+ADN4cQB+AFFzcQB+AEx1cQB+AC4AAAAAc3EAfgBMdXEAfgAuAAAAAHNxAH4ATHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AUHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AUHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AaXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AanNxAH4AMHEAfgA9cQB+AD9xAH4AQXEAfgBCcQB+AER+cQB+AEV0AAZNb2R1bGV1cQB+AEkAAAAAc3EAfgBMcQB+AFJzcQB+AExzcQB+AFRzcQB+AEx1cQB+AC4AAAAAc3EAfgBMdXEAfgAuAAAAAHNxAH4ATHVxAH4AWwAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO3MXundn6s2UtDxTKX84kxiOXBq
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9+7AcAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuycvlXQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgwUNQnQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAx5b7vQdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAxv62nJdAAJbm90aWZ5QWxsc3EAfgAMyGaE1HQADGlzSW5zdGFuY2VPZnNxAH4ADFEejfd0AAZhc0phdmFzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAM6HODznQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADCyWZAN0AAVjbG9uZXNxAH4ADOBEvnx0AAYkaW5pdCRzcQB+AAwUiwjJdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADGUkxgp0AAhnZXRDbGFzc3NxAH4ADDJgSaR0AAJuZXNxAH4ADAVx8Sx0AAp3aXRoUHJlZml4c3EAfgAMHZawrnQABGNhbGxzcQB+AAz3VL9+dAACZXFzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAzMu7YMdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAE2phdmF4LmluamVjdC5JbmplY3R0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHhzcQB+AHN1cQB+AFQAAAAAc3EAfgBzdXEAfgBUAAAAAHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ad3QAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AkHQABGNvcmVzcQB+AJB0AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJFzcQB+AIR0AAZSb3V0ZXJzcQB+AIhzcQB+AIt1cQB+AI4AAAAEc3EAfgCQdAAEcGxheXNxAH4AkHQAA2FwaXNxAH4AkHQAB3JvdXRpbmdxAH4AmXNxAH4AhHQABk9iamVjdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAAEbGFuZ3EAfgCZc3EAfgCEdAADQW55c3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHQABXNjYWxhcQB+AJl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFaJH+5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMUQ6XGRldlxpZGVhd29ya3NcTWFya2V0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTQJLhCiL9J4TQiJKGLCAAabbFChw==
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPfgquQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUJaKQXQABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAzy09UOdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADP5EQOB0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMiwxWjnQABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMswodBHQACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADEHBCh10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AY3NxAH4AXnVxAH4AQAAAAABzcQB+AF51cQB+AEAAAAAAc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBidAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB7dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8c3EAfgBvdAADQW55c3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QABXNjYWxhcQB+AIJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFaJH+5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMUQ6XGRldlxpZGVhd29ya3NcTWFya2V0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTq489DaremAKVrWNcv9BFpuAW+1g==
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOU8njwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwr1bdrXQABm5vdGlmeXNxAH4ADNXoUtZ0AAZmb3JtYXRzcQB+AAyfNiLUdAAEd2FpdHNxAH4ADFIBw8p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMUNkVknQADHByb2R1Y3RBcml0eXNxAH4ADGrlpqx0AAZlcXVhbHNzcQB+AAz4YTDsdAAMYXNJbnN0YW5jZU9mc3EAfgAM0dzQcHQAAWZzcQB+AAwvpcnIdAAMc3luY2hyb25pemVkc3EAfgAMaZaFyHQACV9kaXNwbGF5X3NxAH4ADEtVoHB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMItkgYHQAA3JlZnNxAH4ADDnYA+F0AAhjYW5FcXVhbHNxAH4ADHuYsJV0AA1wcm9kdWN0UHJlZml4c3EAfgAM7OzIX3QACW5vdGlmeUFsbHNxAH4ADGv02DF0AAxpc0luc3RhbmNlT2ZzcQB+AAykcLHBdAAFYXBwbHlzcQB+AAwc0o66dAACPT1zcQB+AAx09jOWdAAFY2xvbmVzcQB+AAyDwoOjdAAGJGluaXQkc3EAfgAMbzLXtXQABGNvcHlzcQB+AAwaY2oIdAAIdG9TdHJpbmdzcQB+AAyFbOdVdAACIT1zcQB+AAxwR0v3dAAIZ2V0Q2xhc3NzcQB+AAxGhC/8dAAOY29weSRkZWZhdWx0JDFzcQB+AAxSVfHfdAAGcmVuZGVyc3EAfgAMnyMNjHQAAm5lc3EAfgAM+/2EdXQAAmVxc3EAfgAMiKJzlHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADL/EnzZ0AAIjI3NxAH4ADJLr+590AAhmaW5hbGl6ZXNxAH4ADDhiRoR0AAVpbmRleHNxAH4ADGKrc2x0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOpsgOt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABB2aWV3cy5odG1sLmluZGV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB0c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeXNxAH4AdHVxAH4AVgAAAABzcQB+AHR1cQB+AFYAAAAAc3EAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AeHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgCGeHEAfgB4dAAJVGVtcGxhdGUxc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCUdAAFdHdpcmxzcQB+AJR0AANhcGlzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXVxAH4AgwAAAAJzcQB+AIl0AAZTdHJpbmdzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUdAAEamF2YXNxAH4AlHQABGxhbmdxAH4AnXNxAH4AiXQABEh0bWxxAH4AjnNxAH4AhXNxAH4AiXQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AI51cQB+AIMAAAACcQB+AKhzcQB+AIVzcQB+AIl0AAZGb3JtYXRxAH4AjnVxAH4AgwAAAAFxAH4AqHNxAH4AiXQADFNlcmlhbGl6YWJsZXNxAH4AjHNxAH4Aj3VxAH4AkgAAAAJzcQB+AJR0AAVzY2FsYXEAfgCdc3EAfgCJcQB+ALNzcQB+AIxzcQB+AI91cQB+AJIAAAADc3EAfgCUcQB+AKVzcQB+AJR0AAJpb3EAfgCdc3EAfgCJdAAHUHJvZHVjdHEAfgC0c3EAfgCJdAAGRXF1YWxzcQB+ALRzcQB+AIl0AAZPYmplY3RxAH4AoXNxAH4AiXQAA0FueXEAfgC0dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+AMp0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFhWiR/uXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADFEOlxkZXZcaWRlYXdvcmtzXE1hcmtldFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUazIdY2FWki+M8lD7pqxffJaUkE0=
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIfgSfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwE42Zh3QABm5vdGlmeXNxAH4ADK83o610AAZmb3JtYXRzcQB+AAxFJzFcdAAEd2FpdHNxAH4ADGy6tAt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMvvutHXQADHByb2R1Y3RBcml0eXNxAH4ADCbrt810AAZlcXVhbHNzcQB+AAyaL2ewdAAMYXNJbnN0YW5jZU9mc3EAfgAMnNVJUnQAAWZzcQB+AAzmERROdAAMc3luY2hyb25pemVkc3EAfgAMBK3hs3QACV9kaXNwbGF5X3NxAH4ADHd6P590AA0kaXNJbnN0YW5jZU9mc3EAfgAMuWHFt3QAA3JlZnNxAH4ADBVUGdF0AAhjYW5FcXVhbHNxAH4ADIKrCvd0AARtYWluc3EAfgAM2VVa1nQADXByb2R1Y3RQcmVmaXhzcQB+AAxMMrTMdAAJbm90aWZ5QWxsc3EAfgAMK6qIwnQADGlzSW5zdGFuY2VPZnNxAH4ADHsQktJ0AAVhcHBseXNxAH4ADLYU7tR0AAI9PXNxAH4ADBgfew90AAVjbG9uZXNxAH4ADNdDMsF0AAYkaW5pdCRzcQB+AAytaqoWdAAEY29weXNxAH4ADNBaeYR0AAh0b1N0cmluZ3NxAH4ADIJ0HTt0AAIhPXNxAH4ADN6khc10AAhnZXRDbGFzc3NxAH4ADHVD17Z0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMVocf10AAZyZW5kZXJzcQB+AAxZvzhVdAACbmVzcQB+AAx+dcPKdAACZXFzcQB+AAx8u4NedAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMsEEnAnQAAiMjc3EAfgAMSDV9PnQACGZpbmFsaXplc3EAfgAM+zDaZnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0CuhpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD3ZpZXdzLmh0bWwubWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHlzcQB+AHR1cQB+AFYAAAAAc3EAfgB0dXEAfgBWAAAAAHNxAH4AdHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAIc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHhzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AhnhxAH4AeHQACVRlbXBsYXRlMnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AeHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4AlHQABXR3aXJsc3EAfgCUdAADYXBpc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJV1cQB+AIMAAAADc3EAfgCJdAAGU3RyaW5nc3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHQABGphdmFzcQB+AJR0AARsYW5ncQB+AJ1zcQB+AIl0AARIdG1scQB+AI5zcQB+AIl0AARIdG1scQB+AI5zcQB+AIVzcQB+AIl0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgCOdXEAfgCDAAAAAnEAfgCqc3EAfgCFc3EAfgCJdAAGRm9ybWF0cQB+AI51cQB+AIMAAAABcQB+AKpzcQB+AIl0AAxTZXJpYWxpemFibGVzcQB+AIxzcQB+AI91cQB+AJIAAAACc3EAfgCUdAAFc2NhbGFxAH4AnXNxAH4AiXEAfgC1c3EAfgCMc3EAfgCPdXEAfgCSAAAAA3NxAH4AlHEAfgClc3EAfgCUdAACaW9xAH4AnXNxAH4AiXQAB1Byb2R1Y3RxAH4AtnNxAH4AiXQABkVxdWFsc3EAfgC2c3EAfgCJdAAGT2JqZWN0cQB+AKFzcQB+AIl0AANBbnlxAH4AtnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDMdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKLHQsOfLws/ZINJhSLWs7cmoKQp
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOOjK7QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwa1UQU3QABm5vdGlmeXNxAH4ADCHFgNl0AAZmb3JtYXRzcQB+AAwAH4W2dAAEd2FpdHNxAH4ADJY5Q190AA0kYXNJbnN0YW5jZU9mc3EAfgAMnrzemXQADHByb2R1Y3RBcml0eXNxAH4ADF17NRt0AAZlcXVhbHNzcQB+AAyfDZK0dAAMYXNJbnN0YW5jZU9mc3EAfgAMLY216XQAAWZzcQB+AAzBgfBVdAAMc3luY2hyb25pemVkc3EAfgAMoF3hW3QACV9kaXNwbGF5X3NxAH4ADB9Llzt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMkQhFkHQAA3JlZnNxAH4ADLHIfeR0AAhjYW5FcXVhbHNxAH4ADK9PV0N0AA1wcm9kdWN0UHJlZml4c3EAfgAMyVUERXQACW5vdGlmeUFsbHNxAH4ADM1cH1Z0AAxpc0luc3RhbmNlT2ZzcQB+AAzVovrEdAAPYXBwbHkkZGVmYXVsdCQyc3EAfgAMagd2SXQABWFwcGx5c3EAfgAMxm9Y1HQAAj09c3EAfgAMQ0KdgHQABWNsb25lc3EAfgAM404tcHQABiRpbml0JHNxAH4ADL4CXw50AARjb3B5c3EAfgAMtUcpHXQACHRvU3RyaW5nc3EAfgAMp5kxLnQAAiE9c3EAfgAM+EOug3QAB3dlbGNvbWVzcQB+AAx/RyWRdAAIZ2V0Q2xhc3NzcQB+AAy2xueddAAOY29weSRkZWZhdWx0JDFzcQB+AAxKRxIXdAAGcmVuZGVyc3EAfgAM2QUg33QAAm5lc3EAfgAMRXo52nQAAmVxc3EAfgAMa56fAnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNEinJl0AAIjI3NxAH4ADHjJ1l90AAhmaW5hbGl6ZXNxAH4ADKqHBmJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADNhaJZt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJ2aWV3cy5odG1sLndlbGNvbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB7c3EAfgB2dXEAfgBYAAAAAHNxAH4AdnVxAH4AWAAAAABzcQB+AHZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAACHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB6c3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4cQB+AIh4cQB+AHp0AAlUZW1wbGF0ZTJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABHBsYXlzcQB+AJZ0AAV0d2lybHNxAH4AlnQAA2FwaXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCXdXEAfgCFAAAAA3NxAH4Ai3QABlN0cmluZ3NxAH4AjnNxAH4AkXVxAH4AlAAAAANzcQB+AJZ0AARqYXZhc3EAfgCWdAAEbGFuZ3EAfgCfcQB+AKFzcQB+AIt0AARIdG1scQB+AJBzcQB+AIdzcQB+AIt0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgCQdXEAfgCFAAAAAnEAfgCqc3EAfgCHc3EAfgCLdAAGRm9ybWF0cQB+AJB1cQB+AIUAAAABcQB+AKpzcQB+AIt0AAxTZXJpYWxpemFibGVzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWdAAFc2NhbGFxAH4An3NxAH4Ai3EAfgC1c3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnEAfgCnc3EAfgCWdAACaW9xAH4An3NxAH4Ai3QAB1Byb2R1Y3RxAH4AtnNxAH4Ai3QABkVxdWFsc3EAfgC2c3EAfgCLdAAGT2JqZWN0cQB+AKNzcQB+AIt0AANBbnlxAH4AtnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDMdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAxRDpcZGV2XGlkZWF3b3Jrc1xNYXJrZXRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI+6mJqyjRpdh3dMYmLHGKaeDXST
+external apis:
+0 items
+source infos:
+15 items
+D:\dev\ideaworks\Market\app\controllers\AsyncController.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\controllers\CountController.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\controllers\HomeController.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\filters\ExampleFilter.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\Module.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\services\ApplicationTimer.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\app\services\Counter.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\javascript\JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\controllers\routes.java -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\Routes.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\routes\main\router\RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\index.template.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\main.template.scala -> 
+AAAAAAAAAAA=
+D:\dev\ideaworks\Market\target\scala-2.12\twirl\main\views\html\welcome.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYVokf7l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMUQ6XGRldlxpZGVhd29ya3NcTWFya2V0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
