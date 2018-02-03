@@ -1,7 +1,8 @@
-*.class
-*.log
-.cache
-.idea
+##ignore this file##
+/.idea/
 /logs/
 /project/project
 /target/
+.cache
+*.class
+*.log
