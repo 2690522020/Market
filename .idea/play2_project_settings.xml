@@ -13,6 +13,7 @@
         <entry key="basics">
           <value>
             <ProjectSettingsEntry>
+              <option name="sourceDir" value="D:\dev\ideaworks\Market\modules\Basics\app" />
               <option name="confDir" value="D:\dev\ideaworks\Market\modules\Basics\app" />
               <option name="templateImports">
                 <list>

@@ -4,7 +4,7 @@
 		module="market$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20180203142425"
+		publication="20180203145422"
 	/>
 	<configurations>
 		<conf name="universal" visibility="public" description=""/>
@@ -49,6 +49,9 @@
 		</dependency>
 		<dependency org="org.parboiled" name="parboiled-core" rev="1.1.7" transitive="false" conf="docs->compile,runtime(*),master(compile),runtime,compile(*),master">
 			<artifact name="parboiled-core" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		</dependency>
+		<dependency org="market" name="basics_2.12" rev="0.0.1" transitive="false" conf="compile->compile,default(compile);runtime->compile,default(compile);test->compile,default(compile);compile-internal->compile,default(compile);runtime-internal->compile,default(compile);test-internal->compile,default(compile)">
+			<artifact name="basics_2.12" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 		<dependency org="org.fluentlenium" name="fluentlenium-core" rev="3.3.0" transitive="false" conf="test->compile,runtime(*),master(compile),runtime,compile(*),master;test-internal->compile,runtime(*),master(compile),runtime,compile(*),master">
 			<artifact name="fluentlenium-core" type="src" ext="jar" conf="sources" e:classifier="sources"/>

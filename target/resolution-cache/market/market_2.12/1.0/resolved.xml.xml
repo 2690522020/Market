@@ -4,7 +4,7 @@
 		module="market_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20180203141442"
+		publication="20180203145407"
 	>
 		<description>
 		Market
@@ -42,6 +42,7 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.4" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.4" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="market" name="basics_2.12" rev="0.0.1" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="twirl-api_2.12" rev="1.3.12" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-server_2.12" rev="2.6.11" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-test_2.12" rev="2.6.11" conf="test->default(compile)"/>
