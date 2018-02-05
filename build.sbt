@@ -22,5 +22,5 @@ lazy val subProjectSettings = Seq(
 
 lazy val `basics` = (project in file("modules/Basics")).enablePlugins(PlayScala).settings(subProjectSettings)
 
-
+lazy val `wechat` = (project in file("modules/WeChat")).enablePlugins(PlayScala).settings(subProjectSettings)
       
