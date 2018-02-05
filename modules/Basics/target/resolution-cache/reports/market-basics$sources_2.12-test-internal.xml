@@ -7,7 +7,7 @@
 		revision="0.0.1"
 		conf="test-internal"
 		confs="universal, universal-docs, universal-src, compile, runtime, test, provided, optional, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180203145432"/>
+		date="20180205140748"/>
 	<dependencies>
 		<module organisation="com.typesafe.play" name="play-jdbc_2.12">
 			<revision name="2.6.11" status="release" pubdate="20180112041818" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://playframework.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="17">
